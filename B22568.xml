@@ -1,0 +1,1380 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pope shut out of heaven gates, or, A dialogue between Pope Julius the 2d, his Genius, and Saint Peter wherein is most elegantly, learnedly, and wittily set forth how Pope Julius (after death) imperiously knocking at heaven gates, is absolutely denied entrance by Saint Peter, so that though having been alwayes stil'd His Holiness, and made famous by his warlike actions, whereby he hoped to become Lord of heaven, he is notwithstanding delivered over as a slave to Satan, and hurried away to the Devil's mansion / exactly from the original of the famous and learned Erasmus Roterodamus.</title>
+            <author>Erasmus, Desiderius, d. 1536.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 120 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22568</idno>
+            <idno type="STC">Wing E3208B</idno>
+            <idno type="EEBO-CITATION">18777972</idno>
+            <idno type="OCLC">ocm 18777972</idno>
+            <idno type="VID">205277</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B22568)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205277)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1651:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pope shut out of heaven gates, or, A dialogue between Pope Julius the 2d, his Genius, and Saint Peter wherein is most elegantly, learnedly, and wittily set forth how Pope Julius (after death) imperiously knocking at heaven gates, is absolutely denied entrance by Saint Peter, so that though having been alwayes stil'd His Holiness, and made famous by his warlike actions, whereby he hoped to become Lord of heaven, he is notwithstanding delivered over as a slave to Satan, and hurried away to the Devil's mansion / exactly from the original of the famous and learned Erasmus Roterodamus.</title>
+                  <author>Erasmus, Desiderius, d. 1536.</author>
+               </titleStmt>
+               <extent>48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Roger Vaughan ..,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Julius --  II, --  Pope, 1443-1513.</term>
+               <term>Popes --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Enrique Valdive</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Enrique Valdive</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205277:1"/>
+            <pb facs="tcp:205277:1" rendition="simple:additions"/>
+            <p>THE POPE Shut out of Heaven Gates: OR, A DIALOGUE BETWEEN
+<list>
+                  <item>Pope <hi>Julius</hi> the 2<hi rend="sup">d.</hi>
+                  </item>
+                  <item>His <hi>Genius,</hi> and</item>
+                  <item>Saint <hi>Peter.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Wherein is moſt <hi>elegantly, learnedly,</hi> and <hi>wittily</hi> ſet forth how Pope <hi>Julius</hi> (after death) imperiouſly knocking at Heaven Gates, is abſolutely denied Entrance by Saint <hi>Peter;</hi> ſo that though having been alwayes ſtil'd His <hi>Holineſs,</hi> and made famous by his Warlike Actions, whereby he hoped to become Lord of Hea<g ref="char:EOLhyphen"/>ven, he is notwithſtanding delivered over as a Slave to Satan, and hurried away to the Devil's Manſion.</p>
+            <p>Exactly from the Original of the Famous and Learned <hi>Eraſmus Roterodamus.</hi>
+            </p>
+            <q>
+               <hi>Lector, Riſum cohibe.</hi>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Roger Vaughan</hi> in <hi>Biſhop's Court,</hi> in the <hi>Old-Baily,</hi> and are to be ſold by the <hi>Book-ſellers,</hi> 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="drama">
+            <pb facs="tcp:205277:2"/>
+            <pb n="3" facs="tcp:205277:2"/>
+            <head>The Speakers;
+<list>
+                  <item>
+                     <hi>Julius</hi> II.</item>
+                  <item>
+                     <hi>Genius.</hi>
+                  </item>
+                  <item>St. <hi>Peter.</hi>
+                  </item>
+               </list>
+            </head>
+            <sp>
+               <speaker>Pope <hi>Julius</hi> II.</speaker>
+               <p>WHat's here to do with a miſchief? won't theſe Gates of Heaven open? Sure either the Wards are changed, or the Lock out of Order.</p>
+            </sp>
+            <sp>
+               <speaker>Genius.</speaker>
+               <p>You had beſt look whether you have brought the right Key, for the ſame do's not open theſe Gates that opens your Money-cheſt; why did not you there<g ref="char:EOLhyphen"/>fore bring both? for that indeed is the Key of <hi>Power,</hi> but not of <hi>Knowledge.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>I never had any other then this, and cannot imagine what occaſion there ſhould be of any other, while this is here.</p>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <p>Nor I neither; but that in the mean time we ſhall be ſhut out.</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>I grow monſtrous angry: I'le knock down theſe Doors: Ho, within there; ſome one open this Gate quickly, or — what's to do here? — do's no
+<pb n="4" facs="tcp:205277:3"/>body come yet? where's this lazy Porter? ſure he's dead drunk and ſnoring.</p>
+            </sp>
+            <sp>
+               <speaker>(<hi>Gen.</hi>
+               </speaker>
+               <p>How he meaſures every one by himſelf)</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Peter.</hi>
+               </speaker>
+               <p>'Tis well theſe are Adamantine Gates, elſe whoever this is, would have broke them down, ſure this muſt be ſome mighty Giant, or Potent Lord, the ſubverter of Cities: — But Foh! what common Sewer or Jakes is this I ſmell? I won't preſently open the Gate, but out of the Wicket ſee if I can diſcover the wonder. What art thou? or, what wouldſt have here?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Open you the Gate, Sir, as ſoon as you can: had you done your Duty, you ought to have come and met me with all the Train of Heaven.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Peter.</hi>
+               </speaker>
+               <p>
+                  <hi>Bravely Imperious!</hi> But pray let me firſt know who you are?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>As though you did not ſee?</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Peter.</hi>
+               </speaker>
+               <p>See! I ſee indeed a new and unuſual ſight, I will not ſay a Monſter.</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>But if you been't ſtark blind, you will, I ſup<g ref="char:EOLhyphen"/>poſe, know this <hi>Key,</hi> if you don't know the Golden Oak, and you may ſee my <hi>Triple Crown</hi> and my <hi>Robes</hi> every where ſhining with Gold and precious Stones.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Peter.</hi>
+               </speaker>
+               <p>That <hi>Silver Key</hi> indeed I in a ſort do know, though it be <hi>alone,</hi> and much unlike thoſe, which of old the true Paſtor of the Church, <hi>Chriſt,</hi> delivered to me: but that <hi>Exalted Crown</hi> how ſhould I poſſibly have any knowledge of? which no barbarous Tyrant ever durſt wear, nor indeed any one that ever deſired entrance here: As for thoſe Robes, they move not me at all, and that Gold and Jewels I ſhall ever contemn and trample on as dung. But what's the matter? I ſpy
+<pb n="5" facs="tcp:205277:3"/>every-where upon thy Key, thy Crown and thy Robe, marks of a moſt horrid <hi>Vilain</hi> and <hi>Impoſtor,</hi> bearing in<g ref="char:EOLhyphen"/>deed my <hi>Title,</hi> but not at all of my <hi>Inſtitution;</hi> rather of <hi>Simon</hi> the Sorcerers, whom by Chriſt's aſſiſtance I o'rethrew.</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Leave this trifling if you're wiſe; for whether you know it or no? I am <hi>Julius</hi> that <hi>Ligurian,</hi> and you will own, or I am deceived, two letters <hi>P. M.</hi> unleſs you never learned any.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Peter.</hi>
+               </speaker>
+               <p>I ſuppoſe they ſignifie <hi>Peſtilent Miſchief.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>(<hi>Gen.</hi>
+               </speaker>
+               <p>Ha, ha, ha, how right has he hit it)</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>No, Sir, they ſignifie <hi>Pontifex Maximus,</hi> or <hi>Mighty Pope.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Peter.</hi>
+               </speaker>
+               <p>Be as <hi>Mighty</hi> as you will, and reckon your ſelf among the <hi>Mightieſt,</hi> nay, <hi>Mightier</hi> then <hi>Hermes Triſmegiſtus,</hi> you ſhall not be received here un<g ref="char:EOLhyphen"/>leſs you were likewiſe good, — that is, <hi>Holy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Why if it be any thing to the purpoſe to be cal<g ref="char:EOLhyphen"/>led <hi>Holy,</hi> thou art too impudent thus to delay opening the Gates to me, Thou! who for ſo many Ages haſt only been called <hi>Saint,</hi> when none ever ſtil'd me other then the <hi>Moſt Holy.</hi> There are extant ſix thouſand Bulls.</p>
+            </sp>
+            <sp>
+               <speaker>(<hi>Gen.</hi>
+               </speaker>
+               <p>Ay Bulls indeed)</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>In which I am more then once called the <hi>Moſt Holy Lord,</hi> and alwayes intituled His <hi>Holineſs,</hi> not bare <hi>Saint;</hi> ſo that whatever I had a mind to do, (<hi>Gen.</hi> Though it were in your drink) that they would ſay was done by <hi>His Holineſs, The moſt Holy Lord</hi> Ju<g ref="char:EOLhyphen"/>lius.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Peter.</hi>
+               </speaker>
+               <p>You may e'ne go and ask Heaven too from thoſe flatterers, who will be very likely to give you ſuch a kind of <hi>Happineſs</hi> as they did <hi>Holineſs.</hi> How<g ref="char:EOLhyphen"/>ever
+<pb n="6" facs="tcp:205277:4"/>you muſt know it is nothing to be called <hi>Holy:</hi> Are you ſo?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>I am enraged: Had I but leave to live again, I would neither envie you, your <hi>Holineſs,</hi> nor your <hi>Hap<g ref="char:EOLhyphen"/>pineſs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Peter.</hi>
+               </speaker>
+               <p>Words well becoming an <hi>Holy Mind!</hi> but indeed looking ſeriouſly on you, I can diſcover many marks of <hi>Impiety,</hi> but not one of <hi>Sanctity:</hi> For what makes that new Attendance which looks not very Prieſtly? Thou bringeſt here neer twenty thouſand a<g ref="char:EOLhyphen"/>long with thee, and yet in the whole croud I ſee not one has ſo much as the countenance of a <hi>Chriſtian.</hi> I ſee a filthy dunghil of men, ſmelling of nothing but <hi>Brothels, Drink,</hi> and <hi>Gunpowder,</hi> they look like Thieves hired to vilany, or rather like Helliſh Goblins broke from the Deeps to wage War againſt Heaven. And the more I view thee, the leſs can I diſcern any foot<g ref="char:EOLhyphen"/>ſteps of an <hi>Apoſtolical</hi> Perſon: For to begin, how mon<g ref="char:EOLhyphen"/>ſtrous is it to ſee thee outwardly clad in Prieſtly Robes, and inwardly groaning under horrid Arms! Then what <hi>murderous</hi> eyes, what a <hi>ſtubborn</hi> look, what a <hi>threatning</hi> forehead, and what a <hi>lofty</hi> and <hi>arrogant</hi> countenance; for I am <hi>aſhamed</hi> to ſay it, and <hi>grieve</hi> to ſee it: There is no one part of thy body but is defiled with the marks of <hi>prodigious</hi> and <hi>abominable</hi> Luſt; not to add thy con<g ref="char:EOLhyphen"/>tinual <hi>Belching,</hi> thy ſmelling of <hi>Surfet</hi> and <hi>Drunken<g ref="char:EOLhyphen"/>neſs,</hi> ſo that at this moment thou lookſt as though thou wert <hi>Vomiting;</hi> for by the habit of thy body 'tis per<g ref="char:EOLhyphen"/>ceivable thou art not ſo much broken with Age or Diſeaſes as with Exceſs of <hi>Gluttony</hi> and <hi>Drunkenneſs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>(<hi>Gen.</hi>
+               </speaker>
+               <p>How he ſets him out in his true colours.)</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Peter.</hi>
+               </speaker>
+               <p>I ſee thee now darting a <hi>threatning</hi> look
+<pb n="7" facs="tcp:205277:4"/>at me, yet I cannot forbear telling thee what I think: I ſuſpect the <hi>peſtilent</hi> Heathen <hi>Julian</hi> to be perſonally returned from Hell to defie me, ſo alike you are in all things.</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>
+                  <hi>Ma di ſi.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Peter.</hi>
+               </speaker>
+               <p>What's that he mutters?</p>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <p>He's angry. At thoſe words not one of the Cardinals durſt forbear flying, unleſs he would feel His <hi>Holineſs</hi>'s Club about his ears, eſpecially at a banquet.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Peter.</hi>
+               </speaker>
+               <p>Thou ſeem'ſt to underſtand the man very well: tell me therefore who thou art?</p>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <p>I am the great <hi>Julius</hi>'s <hi>Genius.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>His <hi>evil</hi> one I believe.</p>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <p>Whatever I am, <hi>Julius</hi>'s I am.</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Pray Sir, leave you off this trifling, and open the Doors preſently, unleſs you will have them broke down; for what need more words, you ſee what Com<g ref="char:EOLhyphen"/>panions I have brought along with me?</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Peter.</hi>
+               </speaker>
+               <p>Indeed I ſee a crew of <hi>diſciplined</hi> Thieves. But if you don't already know it, let me tell you, Theſe Gates are to be aſſaulted and gain'd with other Arms.</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>I have ſaid enough I tell you; And unleſs you immediately haſten, I will <hi>fulminate</hi> upon you a <hi>Thun<g ref="char:EOLhyphen"/>der-bolt</hi> of <hi>Excommunicatinn</hi> fiercer than thoſe where<g ref="char:EOLhyphen"/>with I uſed to <hi>Terrify</hi> the <hi>Mightieſt</hi> Kings and King<g ref="char:EOLhyphen"/>doms. Do you ſee this <hi>Bull</hi> already prepared to that purpoſe.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Peter.</hi>
+               </speaker>
+               <p>What curſed <hi>fulminating,</hi> and <hi>thundring,</hi> and <hi>Bulls</hi> and <hi>Bubbles</hi> are theſe thou tell'ſt me of? for we never heard of them from <hi>Chriſt?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>But you ſhall <hi>feel</hi> them unleſs you make haſte.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Peter.</hi>
+               </speaker>
+               <p>Whoever you have formerly <hi>terrified</hi>
+                  <pb n="8" facs="tcp:205277:5"/>with theſe <hi>vapours,</hi> they <hi>ſignifie</hi> nothing here; we muſt have <hi>realities,</hi> and 'tis with <hi>good deeds</hi> not <hi>bad words</hi> this Fortreſs is to be gained: but pray how come you to <hi>thunder</hi> out your <hi>Excommunications</hi> againſt me? By what right?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>By a very good one, ſince thou art now a <hi>pri<g ref="char:EOLhyphen"/>vate</hi> Perſon, or at beſt but a <hi>private Prieſt,</hi> and yet ſcarce that neither, as wanting the Power of <hi>Con<g ref="char:EOLhyphen"/>ſecrating.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Peter.</hi>
+               </speaker>
+               <p>Becauſe I am thought to be dead.</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Yes ſure.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>But by the ſame reaſon thou excelleſt not me, being dead too.</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Yes, as long as the Cardinals are in <hi>contention</hi> about the choice of the new <hi>Pope,</hi> mine is the <hi>Right</hi> of <hi>Adminiſtration.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>(<hi>Gen.</hi>
+               </speaker>
+               <p>He <hi>dreams</hi> he's ſtill living)</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>But open the Gates I ſay.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Unleſs you can recount your <hi>Merits,</hi> you do nothing here.</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>What <hi>Merits?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>I'le tell you: Were you <hi>ſtudious</hi> in Holy <hi>Doctrine?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Not at all: I was too much taken up with <hi>Wars,</hi> and beſides there were <hi>Fryers</hi> enough; but what's this to the purpoſe?</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Did you by <hi>holineſs</hi> of Life <hi>gain</hi> many to <hi>Christ?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>(<hi>Gen.</hi>
+               </speaker>
+               <p>He <hi>ſent</hi> many to <hi>Hell</hi>)</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Did you <hi>excel</hi> in <hi>Miracles?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>You talk of <hi>obſolete</hi> things.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Did you <hi>aſſiduouſly, devoutly,</hi> and <hi>ſincerely pray?</hi>
+               </p>
+            </sp>
+            <pb n="9" facs="tcp:205277:5"/>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>What <hi>toys</hi> he <hi>tattles</hi> of?</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Did you <hi>afflict</hi> your body with <hi>watchings</hi> and <hi>faſtings?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <p>Tis but in vain to talk to him of theſe things, which he thinks but ſport.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Theſe are the moſt excellent <hi>Prieſtly endow<g ref="char:EOLhyphen"/>ments</hi> I know, if he has any, more <hi>Apoſtolical,</hi> let him tell them.</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Though it be too baſe a ſubmiſſion for me, that <hi>Julius</hi> hitherto unconquered ſhould yield to <hi>Peter,</hi> not to ſay to a poor <hi>Fiſherman</hi> and a <hi>Beggar;</hi> yet that thou mayſt be ſenſible what kind of <hi>Prince</hi> thou contemneſt, underſtand in the firſt place that I am a <hi>Ligurian,</hi> not a <hi>Jew</hi> like you; one thing only I grieve for, becauſe hap<g ref="char:EOLhyphen"/>pening to me like you, that is, once I was a Sailor.</p>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <p>There is no reaſon you ſhould be ſo much troubled at it, only this is ſomewhat to the purpoſe; he fiſh'd for food, you for poor wages row'd at the Oar.</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Then to Pope <hi>Sixtus,</hi> that truly great man</p>
+            </sp>
+            <sp>
+               <speaker>(<hi>Gen.</hi>
+               </speaker>
+               <p>In <hi>vices</hi> he means)</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>
+                  <hi>Nephew</hi> by the <hi>Siſter:</hi> By his ſingular favour and my own induſtry, I firſt raiſed my ſelf to <hi>Eccleſia<g ref="char:EOLhyphen"/>ſtical</hi> Riches; from thence by degrees I was carried up to the height of the <hi>Cardinals Cap,</hi> afterwards exer<g ref="char:EOLhyphen"/>ciſed by many ſtorms of Fortune, and by many cruel accidents toſs'd up and down, and beſides other di<g ref="char:EOLhyphen"/>ſtempers ſubject to the <hi>Falling-ſickneſs;</hi> and laſtly quite covered over with that Scab or Pox they call th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>French.</hi> To theſe was added <hi>banniſhment, hatred, condemnation,</hi> and the being <hi>deſpiſed</hi> by all, and not <hi>lamented</hi> by any. Yet I never loſt the hope of the <hi>Popedom</hi> ſuch was the fortitude of my mind. When thou affrighted by a Wo<g ref="char:EOLhyphen"/>mans
+<pb n="10" facs="tcp:205277:6"/>voice, didſt preſently deſiſt: for as a Woman took away thy courage, ſo a certain Witch or Sorcereſs gave ſtrength to mine, who when overwhelmed with ſo many diſaſters privately whiſpered in my ear, perſevere <hi>Julius,</hi> let nothing ſeem irkſome to <hi>do</hi> or <hi>ſuffer,</hi> one day thou ſhalt wear the <hi>Triple Crown,</hi> be <hi>King of Kings</hi> and <hi>Lord of Lords:</hi> nor did my <hi>hopes,</hi> or her <hi>Witchcraft</hi> fail me. But thithe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> beyond all hope I raiſed my ſelf, partly by the help of the <hi>French,</hi> who ſtood for me when I was rejected, and partly by the ineſtimable power of Money, not without much compacted Uſury, nor that managed without wit.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>What kind of Wi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was that?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>That is, not without <hi>Sacerdotal</hi> Promiſes beyond the bargain, and the art of finding out ſecurity for it, ſo that I raiſed a greater Treaſure then <hi>Craſſus</hi> himſelf, had he been preſent, would have been able to have counted. But 'tis a vanity to tell you theſe things which every Serving-man knows. You have heard how I got into it, and I ſo carried my ſelf in the Papacy, that there was not any one, I will not ſay only of the former <hi>Popes,</hi> which were but <hi>titular</hi> in compariſon of me, but of the latter too, to whom the <hi>Church,</hi> or <hi>Chriſt</hi> himſelf <hi>owed</hi> more then to me.</p>
+            </sp>
+            <sp>
+               <speaker>(Gen.</speaker>
+               <p>How the <hi>Beast</hi> boaſts himſelf)</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>I expect how thou'lt make that out.</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Finding out many <hi>new offices,</hi> for ſo they call them, I much augmented the <hi>Papal</hi> Revenue. Then I invented a way how <hi>Biſhopricks</hi> might be ſold without falling under the laſh of <hi>Simony.</hi> To wit, it was ordain<g ref="char:EOLhyphen"/>ed by my Predeceſſors, that to whom a <hi>Biſhoprick</hi> fell, he ſhould <hi>lay down</hi> his Office. That I thus interpreted, You are commanded to <hi>lay down.</hi> Now that cannot be
+<pb n="11" facs="tcp:205277:6"/>
+                  <hi>laid down</hi> which you <hi>have not,</hi> therefore <hi>lay down</hi> a fine. By this art ſeveral <hi>Biſhopricks</hi> yielded in a little time <hi>ſix or ſeven hundred thouſand</hi> Duckets, beſides what was ordinarily extorted by <hi>Bulls.</hi> Then from the <hi>new Money</hi> (with which I filled all <hi>Italy</hi>) I extracted no ſmall pro<g ref="char:EOLhyphen"/>fit, nor let I any occaſion ſlip that would raiſe Money, perfectly knowing, that without that, nothing could be well done either <hi>ſacred</hi> or <hi>prophane.</hi> Then that I might arrive at greater things; <hi>Bononia,</hi> for many years in Poſſeſſion of the <hi>Bentivolii,</hi> I reſtored to the See of <hi>Rome;</hi> The <hi>Venetians,</hi> never before conquered, I beat by Sea; and the Duke of <hi>Ferrara,</hi> after having long vexed him with tedious War, ſhut up in <hi>Naſſa,</hi> That ſchiſmatical Cabal, with a fictitious Council, I eluded, drivingout, as we ſay, one nail with another: Laſtly, with the <hi>French,</hi> then Formidable to all the World, I diſturbed all <hi>Italy,</hi> and had diſturbed the <hi>Spaniards</hi> too, for thither I inten<g ref="char:EOLhyphen"/>ded, had Fate granted me longer life. And here take notice with how invincible a mind I acted. I perceived the <hi>French</hi> to caſt a ſevere eye over me. I let my beard grow, things being almoſt brought into deſpair, when on a ſudden comes a Golden Meſlenger, bringing news that many thouſand <hi>French</hi> were ſlaughtered at <hi>Raven<g ref="char:EOLhyphen"/>na;</hi> there <hi>Julius reviv'd.</hi> Upon theſe accidents I was for three dayes accounted as dead even to my ſelf, and yet here again, beyond all hope of my own, I revived. And of ſuch power was either my <hi>Authority</hi> or my <hi>cun<g ref="char:EOLhyphen"/>ning,</hi> that at this day there is no <hi>Chriſtian</hi> King whom I have not ſtined up to Arms, breaking and trampling in pieces all League wherewith they had Allyed them<g ref="char:EOLhyphen"/>ſelves together. Next that League (which at <hi>Cambray</hi> the Kings of <hi>France</hi> and <hi>Romans</hi> and other Princes en<g ref="char:EOLhyphen"/>tred into with me) I utterly aboliſhed, ſo that not the
+<pb n="12" facs="tcp:205277:7"/>leaſt mention was made of it. But above all this, after having maintained ſo great an Army, Adorned ſuch magnificent Triumphs, Exhibited ſuch expenſive Plays, Built ſo many Places, yet dying, I left <hi>fifty hundred thou<g ref="char:EOLhyphen"/>ſand</hi> Duckets; and had done greater things if that <hi>Jew</hi> Phyſician, who by his Art ſo long prorogued my life, could have ſpun it out yet further. And Oh! that now ſome Magician could reſtore me to life, that I might ſee an end put to thoſe glorious Actions I have begun; yet dying I took diligent care that the Wars, by me ſet afoot in the World, ſhould not be compoſed; and made it my buſineſs, even at my laſt gaſp, to have Money ſet a part only for that uſe. Now to a <hi>Pope</hi> meriting ſo much from <hi>Christ</hi> and the <hi>Church,</hi> do you delay to open the Gates of Chriſt? But that which is moſt wonderful, is, That all theſe things were perpetra<g ref="char:EOLhyphen"/>ted by the ſole virtue of my own mind, and I had none of thoſe little helps which others uſe to have. Not from <hi>birth,</hi> ſince I never knew my Father, which I may ſay to my own glory. Not from <hi>beauty,</hi> for all men abhorred my Goblin-face. Not from <hi>learning,</hi> which I never attained to. Not from <hi>ſtrength of body,</hi> being ſubject to thoſe infirmities I before told you of. Not from <hi>youth,</hi> for I did theſe things in my age. Not from the <hi>ſailes of popular Applauſe,</hi> for there were none but hated me. Not from my <hi>clemency</hi> or granting fa<g ref="char:EOLhyphen"/>vours to others, for I was ſo inexorable, that I even raged againſt thoſe to whom others coneeded all things.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>How can this be?</p>
+            </sp>
+            <sp>
+               <speaker>(<hi>Gen.</hi>
+               </speaker>
+               <p>Though it ſeem hard, you'l find it ſomewhat <hi>eaſie</hi>)</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>But Fortune, Age, Sickneſs; in ſhort, Gods
+<pb n="13" facs="tcp:205277:7"/>and Men oppoſing, only buoy'd up by my own Cou<g ref="char:EOLhyphen"/>rage and Money, in ſo few years, I acted ſuch great things, and left ſo much matter to my Succeſſors, that they have Work cut out for ten years: Thus much I have truly, but modeſtly ſaid of my ſelf, which if any of thoſe which were wont to be about me at <hi>Rome,</hi> ſhould ſet off in their flouriſhing colours, you would hear of a God and not a Man.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Invincible Warrior! ſince all the Exploits you tell me are new or unuſual, let me plead an Excuſe from my wonder, or my ignorance; and let it not be a trouble to you to anſwer to ſome particulars I would in<g ref="char:EOLhyphen"/>quire into. What are thoſe neat pretty trim'd things with you?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Theſe I brought up for my <hi>Soul</hi>'s ſake.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>And what are thoſe black and ſcarrified ones?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>They are <hi>Souldiers</hi> and <hi>Captains</hi> who bravely died in <hi>Warfare</hi> for me, and the <hi>Church;</hi> ſome at the ſiege of <hi>Bononia,</hi> more in the <hi>War</hi> againſt the <hi>Veneti<g ref="char:EOLhyphen"/>ans,</hi> and moſt at <hi>Ravenna,</hi> to all which <hi>Heaven</hi> is due by <hi>Covenant:</hi> for long ago I by large <hi>Bulls</hi> promiſed they ſhould go directly to <hi>Heaven</hi> whoever loſt their lives <hi>fighting</hi> for the <hi>cauſe</hi> and <hi>ſervice</hi> of <hi>Julius.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>I gueſs then theſe to be them who were often troubleſome to me before your coming hither, (only they did not endeavour to force their entrance) but ſhewed ſome leaden <hi>Bulls.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Then you did not admit them for ought I hear?</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Admit them? no ſure, nor any of thoſe kind of People; for ſo <hi>Christ</hi> taught me that theſe <hi>Gates</hi> were not to be opened to thoſe who brought great
+<pb n="14" facs="tcp:205277:8"/>Leaden Seals, but thoſe who had <hi>cloath'd</hi> the <hi>Naked, fed</hi> the <hi>Hungry,</hi> given <hi>drink</hi> to the <hi>Thirſty, viſited</hi> the <hi>Captive,</hi> and <hi>lod<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g</hi> the <hi>Stranger:</hi> for if he would have thoſe excluded who <hi>Propheſied in his Name, and in his Name cast out Devils, and did many wondrous works:</hi> Canſt thou think he would have thoſe admitted who only bring a <hi>Bull</hi> hither in the name of Pope <hi>Julius?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Had I but known it?</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>I underſtand you; if any of them had come from Hell and told it you, you would have declared War againſt me.</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Yes, and have Excommunicated you too.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>But to proceed: Why are you arm'd your ſelf?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>As though you knew not that two Swords be<g ref="char:EOLhyphen"/>longed to the <hi>Pope,</hi> or would you go to War naked?</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Indeed when I ſat in that place I knew of no <hi>Sword,</hi> unleſs it were the <hi>Sword of the Spirit,</hi> which is <hi>the Word of God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>
+                  <hi>Malchus</hi> did not preach the ſame Doctrine whoſe eare poſſibly you cut off without a Sword.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>I remember, and confeſs it; but then I fought for my <hi>Maſter Christ,</hi> not for <hi>my ſelf:</hi> for the Life of my <hi>Lord,</hi> not for <hi>money,</hi> or <hi>ſecular power;</hi> nor fought I then as <hi>high Priest,</hi> the Keyes being only <hi>pro<g ref="char:EOLhyphen"/>miſed,</hi> not <hi>given:</hi> nor had I <hi>received</hi> the <hi>Holy Ghost,</hi> and yet I was <hi>commanded</hi> to put up my Sword; that he might publickly <hi>admoniſh</hi> this kind of <hi>fighting</hi> was not fit for <hi>Priests,</hi> no not for <hi>Chriſtians.</hi> But again, Why doſt thou ſo <hi>gloriouſly</hi> boaſt hy ſelf a <hi>Lygurian?</hi> as if it were any thing pertinent to <hi>Christ's Vicar</hi> what People he was derived from.</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Yes, I eſteem it an act of great Piety to <hi>en<g ref="char:EOLhyphen"/>noble</hi>
+                  <pb n="15" facs="tcp:205277:8"/>my Nation, and therefore have <hi>inſcribed</hi> this title on my <hi>Money, Statues, Walls,</hi> and <hi>Arches.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Then you know your Country, though you did not know your Father. At firſt I thought thou wouldſt have talked of the Country of the Heavenly <hi>Jeruſalem</hi> and of the <hi>Faithful,</hi> and of its only <hi>Prince</hi> whom they deſire to <hi>Sanctifie,</hi> that is, to <hi>praiſe his Name.</hi> But why doſt thou add <hi>Nephew</hi> by the <hi>Siſter</hi> to <hi>Sixtus,</hi> a man I wonder ſhould never come hither, eſpecially having been <hi>Pope,</hi> and Allyed to ſo great a Captain as thou art. Therefore pray tell me what manner of man he was? Was he a Prieſt?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Ay, and a <hi>brave Souldier</hi> beſides, of a ſtrict <hi>Re<g ref="char:EOLhyphen"/>ligious</hi> Order, to wit, a <hi>Franciſcan.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Indeed I knew among the <hi>Laicks</hi> a very good man called <hi>Francis,</hi> a pious <hi>contemner</hi> of <hi>riches, pleaſures,</hi> and <hi>ambition:</hi> has that <hi>poor</hi> man now ſuch <hi>Lordly</hi> followers?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>You, as far as I can <hi>perceive,</hi> would have no<g ref="char:EOLhyphen"/>thing <hi>improve</hi> or grow better. He was <hi>poor</hi> and <hi>bleſſed,</hi> and now his followers are ſo <hi>rich,</hi> that even we <hi>envy</hi> them.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>
+                  <hi>'Tis well.</hi> But to return where we were; Why <hi>Nephew</hi> to <hi>Sixtus?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>I'le aſſure you that's done very adviſedly to <hi>ſtop</hi> the mouths of thoſe <hi>affirm</hi> me to be his <hi>Son,</hi> and talk it a little too <hi>freely.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>
+                  <hi>Freely,</hi> and is it not <hi>as truly?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>But that <hi>ſuits</hi> not with the <hi>honour</hi> of the <hi>Papa<g ref="char:EOLhyphen"/>cy,</hi> to which alwayes <hi>reſpect</hi> ſhould be had.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>It would have the beſt <hi>reſpect</hi> and <hi>care</hi> of its own <hi>honour</hi> and <hi>dignity,</hi> if it <hi>admitted</hi> nothing might fall under <hi>just reproach;</hi> but let me <hi>conjure</hi> you by the <hi>Pa<g ref="char:EOLhyphen"/>pal
+<pb n="16" facs="tcp:205277:9"/>Majeſty</hi> to tell me truly, whether this be the <hi>ſolemn</hi> and <hi>common</hi> way of coming to the <hi>Popedom</hi> which you have now ſet forth?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>For ſome <hi>Ages</hi> paſt there hath been no other, unleſs he that is to ſucceed me do poſſibly <hi>create</hi> a new one: For I was no ſooner got into the <hi>Chair,</hi> but I ſtreight publiſhed a <hi>formidable <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ll,</hi> forbidding all at<g ref="char:EOLhyphen"/>tempts of arriving at that <hi>Seat</hi> by thoſe means: which <hi>Bull</hi> a little before my death I renewed. Of what force it <hi>proves,</hi> others will ſee.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>I believe none could better <hi>deſcribe</hi> that <hi>miſchief</hi> then your ſelf: but I wonder there ſhould be any would accept the <hi>gift</hi> of it, ſince it is <hi>obnoxious</hi> to ſuch cares, and with ſuch difficulty to be <hi>ſtrugled</hi> for. I ſhould rather think <hi>Pontifical</hi> power ſhould ſcarce <hi>com<g ref="char:EOLhyphen"/>pel</hi> any to <hi>undertake</hi> the office of <hi>Presbyter</hi> or <hi>Deacon.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>I <hi>wonder</hi> not at <hi>you,</hi> for in <hi>your</hi> times the <hi>Re<g ref="char:EOLhyphen"/>veuue</hi> and <hi>Reward</hi> of <hi>Biſhops</hi> was nothing but <hi>labours, watchings, faſtings, preaching,</hi> and oftentimes <hi>death.</hi> Now 'tis <hi>Empire</hi> and <hi>Tyranny,</hi> and who for a <hi>Kingdom,</hi> when there was hopes of it, would not <hi>venture</hi> to die?</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Well ſaid: But for <hi>Bononia,</hi> was it <hi>departed</hi> from the <hi>Faith</hi> that it was to be <hi>reſtored</hi> to the <hi>Roman Church?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>No, no; there was no ſuch thing in it.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Perhaps the <hi>Bentivolii</hi> by their ill <hi>admini<g ref="char:EOLhyphen"/>ſtration</hi> ruined the <hi>Commonwealth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Rather that City <hi>flouriſhed</hi> and <hi>increaſed</hi> under them with large and ſtately Buildings, which made it the more greedily <hi>thirſted</hi> after.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>I underſtand you; they had then <hi>wrong<g ref="char:EOLhyphen"/>fully</hi> invaded it.</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Not ſo neither, they poſſeſſed it by <hi>Covenant.</hi>
+               </p>
+            </sp>
+            <pb n="17" facs="tcp:205277:9"/>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>The <hi>Citizens</hi> then <hi>endured</hi> not him for their <hi>Prince.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Rather they <hi>doted</hi> on him, and univerſally <hi>ha<g ref="char:EOLhyphen"/>ted</hi> me.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>What could then be the cauſe?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Becauſe he ſo <hi>governed,</hi> that out of the <hi>vast</hi> ſums he gathered from the Citizens, ſcarce a <hi>few</hi> thou<g ref="char:EOLhyphen"/>ſands returned to our <hi>Treaſury.</hi> Beſides, it was <hi>conve<g ref="char:EOLhyphen"/>nient</hi> for advance of other matters I had then plotted: therefore the <hi>French</hi> labouring in the buſineſs, and o<g ref="char:EOLhyphen"/>thers <hi>affrighted</hi> with my <hi>thunder-bolts; Bentivolio</hi> driven out, I placed <hi>Cardinals</hi> and <hi>Biſhops</hi> over the City, that the whole <hi>benefit</hi> might accrue to the <hi>Roman Church.</hi> Beſides, whereas whilſt in their <hi>Poſſeſſion</hi> there was to be ſeen nothing but the <hi>Imperial</hi> Titles and Arms: Now our <hi>Statues</hi> were every where to be ſeen, our <hi>Titles</hi> read, and our <hi>Trophies</hi> adored. Everywhere now ſtands a <hi>Braſs</hi> or <hi>Marble</hi> Julius. Laſtly, had you beheld with what <hi>Royal</hi> Triump<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I entred into <hi>Bononia,</hi> you would perhaps have <hi>contemned</hi> all the triumphs of the <hi>Scipio's</hi> and <hi>Octavius,</hi> and have thought it was not without cauſe I fought ſo <hi>ſturdily</hi> for <hi>Bononia;</hi> nay, then would you have ſeen at the ſame time the Church <hi>Militant</hi> and <hi>Triumphant.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>'Twas then in your dayes, I perceive, that happened, which <hi>Christ</hi> has commanded us to pray, <hi>Thy Kingdom come.</hi> But the <hi>Venetians</hi> what had they done?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>They began to follow the <hi>Gre k's</hi> example, making only a <hi>laughing-ſtock</hi> of me, and caſting on me all <hi>reproaches</hi> imaginable.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Were they true or falſe?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>What's that to the purpoſe? 'Tis <hi>Sacriledge</hi>
+                  <pb n="18" facs="tcp:205277:10"/>to <hi>whiſper</hi> any thing of the <hi>Pope</hi> of <hi>Rome</hi> unleſs in his <hi>praiſe.</hi> Then they diſpoſed <hi>Benefices</hi> as they pleaſed, no <hi>Centroverſies</hi> were <hi>transferred</hi> to me, no <hi>Diſpenſati<g ref="char:EOLhyphen"/>ons traffick<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d</hi> for; what need I ſay more? They <hi>afflicted</hi> the See of <hi>Rome</hi> with intolerable <hi>damage,</hi> by <hi>uſurping</hi> no ſmall part of <hi>thy Patrimony.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>My Patrimony? Prithee what do'ſt talk of my <hi>Patrimony?</hi> who forſaking all, <hi>naked,</hi> followed <hi>naked Christ.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>I mean certain Towns belonging to the See of <hi>Rome,</hi> for ſo it pleaſed the Holy Fathers to call a <hi>pecu<g ref="char:EOLhyphen"/>liar</hi> part of their Poſſeſſions.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>You conſulted my infamy with your own gain: but is it this you call <hi>intolerable</hi> damage?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>What elſe?</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>But were their Manners corrupt? or was Piety grown cold?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Piſh: thou talk'ſt of <hi>trifles:</hi> I'le tell you they cheated us of an <hi>infinite</hi> thouſands of Duckets: which would have maintained ſome <hi>legions</hi> of Souldiers.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>A <hi>dreadful</hi> damage indeed to an Uſurer: But what was <hi>Ferrara</hi>'s fault?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>His? He was the moſt <hi>ungrateful</hi> of all man<g ref="char:EOLhyphen"/>kind? Pope <hi>Alexander</hi> the <hi>Vicar</hi> of <hi>Christ</hi> had ſo much reſpect for him, that he gave him his younger <hi>Daughter</hi> in marriage, adding by way of Dower a rich and plen<g ref="char:EOLhyphen"/>tiful Juriſdiction to a falſe-hearted man, who forgetful of ſo much <hi>humanity</hi> and <hi>kindneſs</hi> was continually <hi>bark<g ref="char:EOLhyphen"/>ing</hi> againſt me for <hi>Simony</hi> and <hi>Buggery:</hi> ſome <hi>Subſidies</hi> and <hi>Tolls</hi> likewiſe he laid claim to; but that was not much, but yet too much to be neglected by a <hi>careful</hi> Paſtor.</p>
+            </sp>
+            <sp>
+               <speaker>(<hi>Gen.</hi>
+               </speaker>
+               <p>Ay, that was ſuch a trader)</p>
+            </sp>
+            <pb n="19" facs="tcp:205277:10"/>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>But to make ſhort the ſtory, It was very <hi>ne<g ref="char:EOLhyphen"/>ceſſary</hi> to the buſineſs I had in hand, to joyn this <hi>Domi<g ref="char:EOLhyphen"/>nion</hi> to ours, by reaſon of the conveniency of its ſcitua<g ref="char:EOLhyphen"/>tion, therefore I endeavoured by raiſing this diſturb<g ref="char:EOLhyphen"/>ance to confer this Government on my Kinſman, a ſtout Man, and ready to dare any thing for the Chur<g ref="char:EOLhyphen"/>ches ſake, as who lately with his own hand had for my ſake ſlain Cardinal <hi>Papeias.</hi> For as for my <hi>Daughters</hi> Husband, he was content with his fortune.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>What's this I hear? Have <hi>Popes Wives</hi> and <hi>Children?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>
+                  <hi>Wives</hi> of their own indeed they have not, but what a mighty wonder is it if they have <hi>Children,</hi> ſince they are <hi>Men</hi> and not <hi>Eunuchs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>But that <hi>Schiſmatical Cabal,</hi> what were they doing?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>It would be too long to repeat that ſtory from the beginning. I'le mak't as ſhort as I can. The <hi>Court of Rome</hi> began to be <hi>ſcandalous</hi> to many, they reported it every where <hi>defiled</hi> with <hi>Markets</hi> and <hi>Fairs</hi> of <hi>filthy lucre, prodigious</hi> and <hi>abominable luſts, witchcrafts, ſacri<g ref="char:EOLhyphen"/>ledges, murders</hi> and <hi>ſimony;</hi> me they declared a <hi>Simoniac, drunkard, ſwine, covetous wretch,</hi> and every way <hi>unwor<g ref="char:EOLhyphen"/>thy</hi> of that place, which I held to the <hi>dammage</hi> of the whole <hi>Chriſtian</hi> Religion; therefore a <hi>generall Council</hi> was to be called to <hi>redreſs</hi> theſe <hi>grievances;</hi> they al<g ref="char:EOLhyphen"/>ledged that I had <hi>ſworn</hi> upon my taking on me this <hi>ho<g ref="char:EOLhyphen"/>nour,</hi> that within two years I would call a <hi>Council,</hi> upon which <hi>condition</hi> only I was created Pope.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>And was not that true?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Yes very true: but as ſoon as I ſaw fitting, I <hi>abſolved</hi> my ſelf of that <hi>Oath;</hi> or if I had not, who would have ſtuck at alittle <hi>perjury</hi> when a <hi>Crown</hi> was at
+<pb n="20" facs="tcp:205277:11" rendition="simple:additions"/>
+                  <hi>ſtake?</hi> In other things indeed <hi>Piety</hi> may be <hi>regarded,</hi> as another <hi>Julius,</hi> my ſecond ſelf, elegantly ſaid. But ſee the <hi>impudence</hi> of theſe men, and whither it arrived; N<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne <hi>Cardinals</hi> revolt from me, <hi>ſummon</hi> a Council, <hi>in<g ref="char:EOLhyphen"/>vite</hi> and <hi>intreat</hi> me to Praeſide it; which when they could not <hi>obtain</hi> they <hi>declare Maximilian</hi> as Emperour, (Hiſtories teſtifying that Councils of old uſed to be ſummoned by the <hi>Roman</hi> Emperours) and <hi>Lewis</hi> the 12th of <hi>France</hi> Heads of it. I <hi>tremble</hi> in the <hi>repeating</hi> it: Thus they rend in pieces the <hi>ſeamleſs</hi> Coat of Chriſt which even his <hi>Crucifiers</hi> left whole.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>But wert thou ſuch a one as they repreſen<g ref="char:EOLhyphen"/>ted thee?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>What's that to the purpoſe? <hi>Paint</hi> me more wicked then the <hi>Cyclops,</hi> more <hi>fooliſh</hi> then <hi>Morychus,</hi> more <hi>unlearned</hi> and <hi>blockiſh</hi> then a <hi>Stock,</hi> and more <hi>de<g ref="char:EOLhyphen"/>formed</hi> and <hi>filthy</hi> then a <hi>Toad:</hi> Whoever holds once this <hi>Key</hi> of <hi>Power,</hi> ought to be <hi>reverenced</hi> as <hi>Chriſt's Vicar,</hi> and reputed as <hi>Most Holy?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>What! though he be <hi>openly</hi> wicked?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Ay, never ſo <hi>openly,</hi> for it is not to be endured that he who acts here in <hi>God</hi>'s ſtead, and ſhould be e<g ref="char:EOLhyphen"/>ſteemed as a <hi>God</hi> among <hi>Men</hi> ſhould be <hi>ſubject</hi> to the <hi>reproofs</hi> of every idle fellow, or <hi>expoſed</hi> to every ones <hi>re<g ref="char:EOLhyphen"/>proaches?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>But it is <hi>oppoſite</hi> to common <hi>ſenſe,</hi> to think <hi>well</hi> of that which we <hi>apparently</hi> behold to be <hi>evil;</hi> or to ſpeak <hi>well</hi> of that which we think to be <hi>wicked.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Let every one <hi>think</hi> what they pleaſe, but let them take care to ſpeak <hi>well,</hi> or elſe hold their tongues; for the <hi>Pope of Rome</hi> is not to be <hi>reproved,</hi> no not by a <hi>General Council.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>One thing I know, that whoever pretends
+<pb n="21" facs="tcp:205277:11" rendition="simple:additions"/>to ſupply Chriſt's place upon Earth, ought to be as <hi>like him</hi> as he can, and ſo lead his life that it be <hi>un<g ref="char:EOLhyphen"/>blameable,</hi> and that none can <hi>juſtly</hi> ſpeak ill of him: but ſurely thoſe Popes are but in an evil caſe, who muſt be beholding to <hi>threatnings,</hi> rather then <hi>good actions,</hi> for mens good words, and whoſe greateſt <hi>glory</hi> is, that they can <hi>compel</hi> men who <hi>think</hi> evil of them to <hi>ſilence:</hi> But anſwer me one thing; Is a <hi>wicked</hi> and <hi>peſtilent</hi> Pope no way to be <hi>removed?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>
+                  <hi>Ridiculous!</hi> By whom ſhould he be <hi>removed,</hi> who is the <hi>higheſt?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>For that reaſon he ought the <hi>rather</hi> to be <hi>re<g ref="char:EOLhyphen"/>moved,</hi> becauſe the <hi>highest,</hi> for the <hi>higher</hi> he is, if he be <hi>evil,</hi> the more <hi>pernicious</hi> he is; but you, <hi>Julius,</hi> make a much more happy <hi>High Prieſt</hi> then Chriſt ever conſti<g ref="char:EOLhyphen"/>tuted, who whilſt he thinks himſelf <hi>higheſt,</hi> quite for<g ref="char:EOLhyphen"/>gets that he is a Prieſt. And though really the <hi>worst</hi> of <hi>mankind,</hi> thinks he may lawfully, and unpuniſh't, be the <hi>worst;</hi> becauſe by title the <hi>greatest.</hi> A Prieſt ſo much the <hi>highest</hi> by his title, that he claims and challenges the <hi>highest</hi> and <hi>ſupreamest</hi> right (not without the <hi>ghest</hi> injury) over Kings who are truly ſupream, and Em<g ref="char:EOLhyphen"/>perours who are the higheſt under God; and as if they were <hi>ſollicited</hi> and <hi>intreated</hi> to Reign by virtue of a <hi>forged</hi> and <hi>pretended Vicarſhip</hi> to <hi>Christ, uſurping</hi> a right firſt to <hi>prohibit ſacred</hi> and then <hi>temporal</hi> things, a right of <hi>diſpenſing</hi> their Subjects from that <hi>Faith</hi> and <hi>Obedience</hi> due to them by God's own Command: In fine, a right of waging War againſt them for any <hi>light</hi> occaſion (perhaps a wicked one) and purſuing it after a <hi>Fonti<g ref="char:EOLhyphen"/>ficial</hi> manner, not to a <hi>Spiritual</hi> amendment of life, but to the taking away <hi>Temporal power.</hi> And in the mean time you grant this Pope by virtue of his <hi>highest</hi> place,
+<pb n="22" facs="tcp:205277:12"/>or (as you would rather perhaps have it expreſſed) his <hi>Seat unmoveable by any mortal power</hi> (no not by the greateſt Kings or Emperours) a Power of violating all <hi>Rights</hi> not only <hi>Humane</hi> but <hi>Divine,</hi> and <hi>making</hi> a <hi>mixture,</hi> as one may ſay, of <hi>Heavenly</hi> and <hi>Earthly</hi> wickedneſs. Happy, <hi>Julius,</hi> was it for the <hi>World</hi> that <hi>Death</hi> at length had this right over thee, (and I believe thou <hi>blamest</hi> it too for acting too <hi>tyrannically</hi>) which thou ſo ſtiffly denieſt to all other mortals: But was it thus <hi>ordained</hi> by <hi>Christ,</hi> or is the <hi>Church</hi>'s advantage ſo to be provided for, that its life and ſafety muſt be <hi>re<g ref="char:EOLhyphen"/>poſed</hi> in the death of ſuch an <hi>High Prieſt?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>But if the <hi>Pope of Rome</hi> be to be <hi>Reformed,</hi> it muſt be done by a <hi>Council,</hi> now no <hi>Council</hi> can be called without the <hi>Pope</hi>'s conſent, otherwiſe 'tis a <hi>Cabal</hi> and no <hi>Council.</hi> Or when it is called, it can <hi>decree</hi> nothing which the Pope <hi>oppoſes;</hi> for in him is the chief Preſi<g ref="char:EOLhyphen"/>dency and abſolute Power, ſo that the <hi>Pope</hi> alone is much <hi>Superiour</hi> to any General Council, and from his <hi>Office</hi> he cannot be removed for any <hi>crime</hi> whatſoever.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Not for <hi>Murder?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Not for <hi>Parricide.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Not for <hi>Fornication?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>That's a toy. I tell you not for <hi>Incest?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Not for <hi>Simonaical</hi> Impiety?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Not for <hi>ſix</hi> hundred.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Not for <hi>Witchcraft?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>No, nor for <hi>Sacriledge.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Not for <hi>Blaſphemy?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>No I ſay.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Not for all theſe together, drawn up into one <hi>maſs</hi> of miſchiefs?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Add if you will to theſe the Names of ſix
+<pb n="23" facs="tcp:205277:12"/>hundred <hi>crimes</hi> yet more filthy then thoſe, yet could not a <hi>Pope</hi> for all thoſe be removed from the <hi>Papacy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Indeed, <hi>Julius,</hi> you ſeem to have a very ho<g ref="char:EOLhyphen"/>nourable opinion of General Councils (as above Kings and Emperours) but you only ſeem to have ſo: for you do not unwillingly approve that Councils of old were as Colledges of Phyſicians, to whoſe care the Cure of the Church, when indiſpoſed, was to be com<g ref="char:EOLhyphen"/>mitted: But at this day they are rarely called to that end, or you indeed can ſcarce be brought to endure they ſhould be, but the <hi>Head</hi> (for ſo you love to call it) though it be not in very <hi>good health;</hi> nay, though that <hi>Head</hi> be ſo <hi>infected</hi> that it may <hi>deſervedly</hi> be accounted the common <hi>diſeaſe</hi> and <hi>plague</hi> of the Church; yet that <hi>polluted Head,</hi> though <hi>deſerving</hi> to be <hi>cut off,</hi> or <hi>removed,</hi> is not at all in your judgment to be ſubmitted to the <hi>cenſure</hi> of an <hi>Occumenical</hi> Council which are (as it were) <hi>Repreſentatives</hi> of the Church?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Yet there is one thing for which ſome are of <hi>opinion</hi> he may be <hi>removed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>For what good act muſt that be? For a crime it cannot be, ſince it cannot be for thoſe I have before named?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>For the crime of <hi>Hereſie,</hi> ſo he be publickly con<g ref="char:EOLhyphen"/>victed of it: but that's <hi>frivolous</hi> too, nor do's not a tittle derogate from the <hi>Papal</hi> Majeſty; for in the firſt place he may <hi>abrogate</hi> that Law if it <hi>diſpleaſe</hi> him; then again, who dares <hi>impeach</hi> the <hi>Pope of Rome,</hi> encom<g ref="char:EOLhyphen"/>paſſed with ſo many <hi>Guards?</hi> beſides if he be preſt hard to call a Council, the <hi>Recantation</hi> is eaſie, if he cannot deny ſummoning them. And laſtly there are a thouſand <hi>ſtarting-holes</hi> for him to ſlip out of, if he be a <hi>Man</hi> and not a <hi>Block.</hi>
+               </p>
+            </sp>
+            <pb n="24" facs="tcp:205277:13"/>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>But tell me by thy <hi>Pontifical</hi> Power, who Eſtabliſhed theſe Excellent Laws?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Who ſhould but the <hi>Fountain</hi> of all Laws, the Pope of <hi>Rome,</hi> and it belongs to him to <hi>repeal, inter<g ref="char:EOLhyphen"/>pret, explain, ſtreighten</hi> or <hi>enlarge</hi> any Law as ſhall be moſt for his advantage.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Happy were the <hi>Pope</hi> could he make a Law to <hi>deceive Christ</hi> and <hi>Heaven</hi> as well as he can a <hi>Council.</hi> But indeed againſt ſuch a <hi>Pope</hi> as thou haſt now <hi>de<g ref="char:EOLhyphen"/>ſcribed,</hi> ſuch an <hi>open wicked Wretch,</hi> ſuch a <hi>Drunkard, Murderer, Simoniac, Sorcerer, P<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rju<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er, Ravenous</hi> and <hi>prodigious Villain,</hi> everywhere <hi>ſtained</hi> over and <hi>defiled</hi> with all kinds of <hi>Lust,</hi> not ſo much a <hi>General Council</hi> were to be wiſhed, as a <hi>furious</hi> People arm'd with <hi>ſtones,</hi> that ſo publick a <hi>plague</hi> of the World might as <hi>publick<g ref="char:EOLhyphen"/>ly</hi> be taken out of it. But tell me what's the reaſon, why the Popes of <hi>Rome</hi> ſo much abhor <hi>General Coun<g ref="char:EOLhyphen"/>cils?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Becauſe ſuch a company of <hi>Excellent</hi> Men do not alittle <hi>obſcure</hi> the <hi>Papal</hi> dignity, where the <hi>Learned</hi> bring <hi>boldneſs</hi> and <hi>confidence</hi> along with them; the <hi>Good</hi> ſpur'd by their Conſciences, ſpeak things <hi>more freely</hi> than is <hi>expedient</hi> for us: Thoſe who have any <hi>worth</hi> or <hi>power</hi> will uſe their <hi>Authority,</hi> and ſome will be mixed among theſe <hi>Envious</hi> of our <hi>Glory,</hi> and come thither with <hi>prepared</hi> thoughts to <hi>leſſen</hi> the <hi>Papal</hi> Power and Authority: In ſhort, not one ſits here but thinks he may <hi>aſſume</hi> an Authority from the <hi>Council</hi> to ſay ſome<g ref="char:EOLhyphen"/>what againſt the <hi>Pope,</hi> whence it comes to paſs that ne<g ref="char:EOLhyphen"/>ver <hi>Council</hi> ended ſo happily, but that the <hi>Pope</hi> ran ſome hazard of his <hi>Majeſty,</hi> or felt his <hi>Greatneſs</hi> decline. Of which you your ſelf may be a <hi>witneſs,</hi> unleſs you have <hi>forgot</hi> it; for though then the Diſpute was only con<g ref="char:EOLhyphen"/>cerning
+<pb n="25" facs="tcp:205277:13"/>
+                  <hi>light</hi> matters, not <hi>Empire</hi> and <hi>Royalty</hi> as now; yet. <hi>James</hi> was bold to add no ſmall matter to what you had ſet down; For when you abſolutely <hi>freed</hi> the <hi>Gentiles</hi> from the <hi>yoke</hi> of the <hi>Moſaical</hi> Law. <hi>James</hi> ſucceeding, excepted <hi>Fornication</hi> and <hi>Blood,</hi> and things <hi>offered to Idols,</hi> as if he would <hi>correct</hi> your <hi>Decree;</hi> ſo that there are at this day, who <hi>think</hi> (moved to it by this paſſage) that the chief <hi>Pontifical</hi> Power was in <hi>James,</hi> and not in you.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Then thou thinkeſt that nothing is to be ta<g ref="char:EOLhyphen"/>ken care of, but the Preſervation of the <hi>Papal</hi> Majeſty, as if the Publick ſafety of the Church were not more neceſſary to be looked after.</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Let every one mind their own <hi>advantage,</hi> we look after that which moſt <hi>concerns</hi> us.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>But if Chriſt had done the ſame, That <hi>Church</hi> had not now been which thou boaſts thy ſelf <hi>Monarch</hi> over, nor can I ſee how it agrees with him that calls himſelf the <hi>Vicar of Christ,</hi> to act things <hi>contrary</hi> to <hi>Christ.</hi> But pray proceed, by what art did you daſh in pieces that <hi>ſchiſmatical Council,</hi> as you call it?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>I le tell it you truly; conceive it if you can. In the firſt place the Emperour <hi>Maximilian</hi> (for ſo he is called) being one of the eaſieſt men alive, though by ſolemn Nuntio's he ſummon'd the Council, yet I found ſly and unſpeakable ways to remove him from his purpoſe. Beſides, by the like arts, I perſwaded ſome <hi>Cardinals</hi> that ſome Inſtruments they had already de<g ref="char:EOLhyphen"/>creed and publiſhed, calling again the Notaries and Witneſſes, they ſhould as publickly deny.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>But was this <hi>lawful?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>What is not <hi>lawful</hi> when the <hi>Pope</hi> approves it? who, when he pleaſes, may make <hi>ſwearing</hi> no <hi>ſwearing,</hi>
+                  <pb n="26" facs="tcp:205277:14"/>as being capable of <hi>abſolving</hi> all Oaths. But indeed to ſpeak ingeniouſly, this was ſomewhat an <hi>impudent</hi> trick, but nothing more to my purpoſe then preſented it ſelf. Thereupon when I ſaw how things were like to be, that I ſhould contract the envie of the <hi>Council,</hi> e<g ref="char:EOLhyphen"/>ſpecially ſo <hi>ſummoned,</hi> to the end I might not be ex<g ref="char:EOLhyphen"/>cluded, but humbly <hi>beſought</hi> and deſired to <hi>praeſide</hi> in it; ſee what a <hi>Web</hi> I <hi>wove</hi> following my <hi>Predeceſſors</hi> Ex<g ref="char:EOLhyphen"/>ample. I took my turn to haſten the <hi>meeting</hi> of the Council, finding fault that neither the <hi>time</hi> nor <hi>place</hi> by them appointed, was <hi>fitting</hi> or <hi>convenient.</hi> I there<g ref="char:EOLhyphen"/>fore immediately <hi>ſummoned</hi> a Council to <hi>Rome,</hi> whe<g ref="char:EOLhyphen"/>ther I thought none would <hi>venture</hi> to come, who were not friends to <hi>Julius,</hi> and would ſecond at leaſt, if not wholly obey him; to which purpoſe I drew them by many Examples, and created for that end many new <hi>Cardinals</hi> in all things fitted to my deſigns.</p>
+            </sp>
+            <stage>(<hi>Gen.</hi> That is moſt <hi>villanous</hi> ones)</stage>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Again, this <hi>Council</hi> if I had not <hi>ſummoned</hi> it had not been a <hi>Council,</hi> and yet it was utterly <hi>unexpe<g ref="char:EOLhyphen"/>dient</hi> to my Affairs, that ſuch a <hi>croud</hi> of <hi>Biſhops</hi> and <hi>Abbots</hi> ſhould flock to <hi>Rome,</hi> among whom it was impoſ<g ref="char:EOLhyphen"/>ſible, but that ſome muſt be <hi>Pious</hi> and <hi>honest:</hi> Therefore I adviſed, that for the ſaving of charges, they ſhould only ſend one or more from each Province; and when at length this ſeemed none of the ſafeſt courſes, a few out of ſo many Provinces amounting to a great num<g ref="char:EOLhyphen"/>ber, even when they were now ready for the Journey, I <hi>forbid</hi> their coming, <hi>proroguing</hi> the Council to a fur<g ref="char:EOLhyphen"/>ther day, and giving <hi>ſufficient</hi> and <hi>probable</hi> reaſons for it. And by theſe arts, univerſally excluding thoſe I doubted again giving notice of the day I had firſt pre<g ref="char:EOLhyphen"/>ſcribed, <hi>Inſtituted</hi> a Council at <hi>Rome,</hi> conſiſting only of
+<pb n="27" facs="tcp:205277:14"/>thoſe before by me prepared. Among which, though ſome <hi>Diſſenters</hi> might appear, yet I was <hi>confident</hi> none durſt make <hi>open reſiſtance</hi> againſt <hi>Julius,</hi> ſo powerful in Guards and Forces. Now by this means I ſtirr'd up <hi>mighty</hi> envie in that <hi>French</hi> Council, ſending away ſe<g ref="char:EOLhyphen"/>veral Letters, in which I made mention of our <hi>moſt holy Council,</hi> execrating and curſing that Council of theirs, and thereupon naming it a <hi>Conventicle of Satans,</hi> a <hi>Ca<g ref="char:EOLhyphen"/>ball of the Devil,</hi> and a <hi>Schiſmatical Conſpiracy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Certainly thoſe <hi>Cardinals</hi> muſt in your judgment be very wretches, who were <hi>authors</hi> and <hi>chiefs</hi> of that Council.</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>I never enquire after <hi>manners;</hi> but the prime <hi>manager</hi> of this buſineſs was the Biſhop of <hi>Rheims,</hi> who guided by I know not what <hi>holineſs,</hi> alwayes took care of <hi>reforming</hi> the Church, which he did in ſeveral places; but him death <hi>ſnatcht</hi> away, doing me a very <hi>grateful</hi> office. To him ſucceeded the <hi>Cardinal</hi> of <hi>Sancta Cruz</hi> a <hi>Spaniard,</hi> of an unblameable life, but a moroſe old Man, and a Divine: which ſort of men uſed often to be troubleſome to the <hi>Popes of Rome.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>But a <hi>Divine</hi> could have no probable pre<g ref="char:EOLhyphen"/>tence to cover his <hi>deſign.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Yes many, he alledged the <hi>times</hi> were never more <hi>unquiet,</hi> that the <hi>Church</hi> never <hi>groan'd</hi> under more <hi>intolerable</hi> diſtempers, which were to be <hi>remedied</hi> by a General Council. That when I was admitted to the <hi>Papacy,</hi> I had taken the <hi>Sacrament,</hi> that in my ſecond year I would <hi>ſummon</hi> a General Council, and ſo <hi>ſettle</hi> it, that I could not <hi>diſſolve</hi> it without <hi>conſent</hi> of the <hi>Cardinals.</hi> In ſhort, though often <hi>admoniſhed</hi> by my Brother <hi>Cardinals, requeſted</hi> and <hi>called</hi> upon by <hi>Princes,</hi> I liſtned to any thing rather then this, ſo that it plainly
+<pb n="28" facs="tcp:205277:15"/>appeared, that while <hi>Julius</hi> was living no Council would be. They urged the <hi>Examples</hi> of former Coun<g ref="char:EOLhyphen"/>cils, <hi>cited</hi> ſeveral <hi>Papal</hi> Laws, by which it <hi>appeared</hi> that when I or mine <hi>waved,</hi> calling a Council, the <hi>right</hi> de<g ref="char:EOLhyphen"/>volv'd to them, and that other <hi>Princes</hi> conniving, the gift of Summoning appertained to the <hi>Roman</hi> Emper<g ref="char:EOLhyphen"/>our, who formerly alone <hi>cited</hi> all Councils, and to the <hi>French</hi> King as the next Sovereign.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Did they not then write ſcurrilous things againſt you?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>No, the Raſcals underſtood things better then I would have had them; This <hi>hateful</hi> matter they ma<g ref="char:EOLhyphen"/>naged with a wonderful <hi>modeſty,</hi> for they not only for<g ref="char:EOLhyphen"/>bore <hi>revilings,</hi> but never named me but with an <hi>Honora<g ref="char:EOLhyphen"/>tory</hi> Preamble, <hi>beſeeching</hi> and <hi>conjuring</hi> me by all things <hi>Sacred</hi> and <hi>Pious,</hi> that as a thing only worthy of me, and as a thing I had <hi>ſworn,</hi> I would <hi>ſummon</hi> and <hi>praeſide</hi> in a General Council, and <hi>apply</hi> my ſelf with them to <hi>heal</hi> the <hi>diſtempers</hi> of the Church: Nor can I tell you with what <hi>envy</hi> I looked upon this <hi>temperance</hi> of theirs, eſpecially ſince they founded all things upon the <hi>Holy</hi> Scriptures, it being apparent ſeveral Learned Men were ſet apart for that end, whilſt in the mean time they added, <hi>faſtings, prayers,</hi> and an admirable <hi>frugality</hi> of life, that they might the better <hi>urge</hi> me with an opinion of their <hi>holineſs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>On the other hand, under what pretence didſt thou <hi>ſummon</hi> a Council?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Under a much more <hi>ſplendid</hi> one; I pretended that it was my deſire firſt, to <hi>Reform</hi> the Head of the Church, that is <hi>my ſelf;</hi> then <hi>Kings</hi> and <hi>Princes;</hi> and laſtly, the whole <hi>body</hi> of the <hi>People.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>'Tis a fine <hi>Comedy</hi> this, but I expect the
+<pb n="29" facs="tcp:205277:15"/>
+                  <hi>iſſue;</hi> pray let me hear what thoſe Divines decreed in that <hi>Satanical Cabal?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Such <hi>unworthy</hi> and <hi>abominable</hi> things as my Soul <hi>detests</hi> the very memory of.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Were they ſo <hi>horrible</hi> wicked?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Altogether <hi>impious, ſacrilegious,</hi> and worſe then <hi>heretical,</hi> which unleſs I had trampled on with <hi>hands</hi> and <hi>feet,</hi> and oppoſed both with <hi>art</hi> and <hi>arms,</hi> gone had been the <hi>glory</hi> and <hi>dignity</hi> of the <hi>Roman</hi> Church.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>This makes me more deſirous to know what thoſe things were.</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Oh! I abhor the relation of them. Theſe <hi>wretches</hi> attempted to <hi>reduce</hi> the Church now <hi>flouriſhing</hi> with ſo much <hi>riches</hi> and <hi>dominion</hi> to its old <hi>rags</hi> and miſerable <hi>frugality;</hi> That <hi>Cardinals</hi> who now with noiſe and ſplendor exceeded ſome <hi>Tyrants</hi> in their manner of living, ſhould be confined to a life of Poverty; That <hi>Biſhops</hi> would live after a more moderate rate, with ſmaller trains, equipage, and horſes: They decreed, That <hi>Cardinals</hi> ſhould not in all places <hi>ſwallow</hi> up whole <hi>Biſhopricks, Abbies,</hi> and <hi>Benefices,</hi> and that none ſhould have more then one <hi>Biſhoprick,</hi> and that thoſe who right or wrong (as they ſaid) heaped up to themſelves (if they could) ſix hundred Benefices, they thought fit ſhould be <hi>compelled</hi> to be <hi>content</hi> with ſuch <hi>allowance</hi> as was fit for a <hi>frugal</hi> Prieſt: That none ſhould be crea<g ref="char:EOLhyphen"/>ted <hi>Pope,</hi> or <hi>Biſhop,</hi> or <hi>Prieſt</hi> by <hi>bribery,</hi> or <hi>ſimony,</hi> or through <hi>favour</hi> or baſe <hi>compliance,</hi> but only for the <hi>me<g ref="char:EOLhyphen"/>rits</hi> and <hi>example</hi> of his life, and that if it were found otherwiſe, he ſhould thence be <hi>removed:</hi> That it ſhould be lawful to <hi>degrade</hi> the <hi>Pope</hi> for open wickedneſs; And that Biſhops, either <hi>Whoremaſters</hi> or <hi>Drunkards,</hi> ſhould be deprived; And <hi>Prieſts</hi> openly <hi>ſcandalous,</hi> not only
+<pb n="30" facs="tcp:205277:16"/>
+                  <hi>removed</hi> from the Prieſthood, but puniſhed with <hi>muti<g ref="char:EOLhyphen"/>lation</hi> of members; With many other things of that kind, for it troubles me to think of all which did whol<g ref="char:EOLhyphen"/>ly <hi>tend</hi> to this, to <hi>load</hi> and <hi>burthen</hi> us with a <hi>demure Sanctity,</hi> and rob and ſpoil us of <hi>riches</hi> and <hi>Empire.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Therefore what did you decree againſt theſe things in your <hi>most holy Roman</hi> Council?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>you ſeem to have forgot what I told you: That I had no other <hi>deſign</hi> in that Council but to <hi>drive</hi> out a <hi>nail</hi> with a <hi>nail.</hi> The firſt Meeting was ſpent in cer<g ref="char:EOLhyphen"/>tain <hi>ſolemn</hi> Ceremonies, which for Authority ſake we think fit yet to obſerve, though not at all pertinent to the matter, where two <hi>Sanctions</hi> were uſed, one of the <hi>holy Groſs,</hi> and the other of the <hi>holy Spirit;</hi> as if by his <hi>guidance</hi> all things were there to be done, and then was recited an <hi>Oration</hi> full of my praiſes. In the next <hi>Seſſions,</hi> with all the force I had, I <hi>flung</hi> out my <hi>thunder<g ref="char:EOLhyphen"/>bolts</hi> againſt thoſe <hi>ſchiſmatical Cardinals,</hi> pronouncing <hi>whatſoever</hi> they had, or <hi>whatſoever</hi> they were about to <hi>decree,</hi> more then <hi>impious,</hi> more then <hi>ſacrilegious,</hi> and worſe then <hi>heretical.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>So that if by chance <hi>repenting</hi> they had <hi>de<g ref="char:EOLhyphen"/>clared</hi> you a <hi>good</hi> and <hi>excellent</hi> Pope, that had been moſt <hi>impious</hi> and <hi>heretical?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Altogether, as founded on no <hi>reaſon</hi> nor <hi>Autho<g ref="char:EOLhyphen"/>rity:</hi>
+               </p>
+            </sp>
+            <stage>(Gen. Nothing truer.)</stage>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>For what did it concern them to decree what kind of Perſon the <hi>Pope of Rome</hi> ſhould be? But to proceed, at the third <hi>Seſſions,</hi> with the like <hi>fulminations</hi> I terrified <hi>France,</hi> removing the Marts from <hi>Lyons,</hi> and ſome other places by name excepted, thereby the more to <hi>alicnate</hi> the Subjects minds from the King, and ſtir
+<pb n="31" facs="tcp:205277:16"/>up <hi>ſedition</hi> among them; And that done that it might bear more <hi>Authority,</hi> I ſent <hi>authentick Bulls</hi> thereof to all <hi>Princes,</hi> eſpecially to thoſe whom I perceived moſt <hi>inclined</hi> to our Faction.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>And was this all was done?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>All was done I deſired; <hi>I overcame:</hi> ſince on<g ref="char:EOLhyphen"/>ly <hi>my Decrees</hi> prevailed. Thoſe three <hi>Cardinals</hi> that perſiſted in their <hi>attempts,</hi> with publick <hi>Ceremonies</hi> I <hi>deprived</hi> of their <hi>Cardinal dignity,</hi> and <hi>conferr'd</hi> their <hi>Church-livings</hi> upon others, ſo that they could hardly be <hi>reſtored, delivering</hi> them over to <hi>Satan,</hi> whom I would have rather <hi>delivered</hi> to the <hi>flames</hi> here, could I have got them into my clutches.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>And yet if thou telleſt truth, the <hi>Decrees</hi> of that <hi>ſchiſmatical Cabal</hi> ſeem to have much more <hi>Sanctity</hi> in them then thoſe of thy <hi>most holy</hi> Council, from whence, as I can perceive, nothing <hi>iſſued</hi> but <hi>tyran<g ref="char:EOLhyphen"/>nical threats, curſes,</hi> and <hi>cruelty</hi> mix'd with <hi>craft.</hi> If <hi>Satan</hi> were the Author of that <hi>Cabal,</hi> His Spirit ſeems nearer to approach <hi>Chriſt</hi>'s, then that ſtrange one <hi>mode<g ref="char:EOLhyphen"/>rated</hi> in your Council?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>I tell you again and again, Have a care what you ſay, for in all my <hi>Bulls</hi> I have curſed all thoſe who ſhall but ſpeak any thing in <hi>favour</hi> of that <hi>Cabal.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Wretch! how thou yet breath'ſt forth the old <hi>Julius!</hi> But what was the iſſue of this buſineſs?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>I left it in the ſtate you hear; how it will come off, Fortune muſt decide.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Then the <hi>Schiſm</hi> yet continues?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>It continues and very dangerouſly.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>And thou, though <hi>Chriſt's Vicar,</hi> had'ſt ra<g ref="char:EOLhyphen"/>ther have a <hi>Schiſm,</hi> then a <hi>true Council?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>I had rather have three hundred <hi>Schiſms</hi> then I
+<pb n="32" facs="tcp:205277:17"/>be <hi>compelled</hi> in my Authority, or forced to <hi>give an ac<g ref="char:EOLhyphen"/>count</hi> of my whole life.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Thou art ſo <hi>conſcious</hi> of thy ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>What's that to thee?</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>I underſtand you; It was not expedient to remove that <hi>Conclave,</hi> but did you get the victory?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>That's in Fortunes hand. Though we have the more Money, for the <hi>French</hi> are Exhauſted by con<g ref="char:EOLhyphen"/>tinual Wars. The <hi>Engliſh</hi> have yet Mountains of Gold untouch'd: This I can undoubtedly <hi>Prophecy,</hi> Should the <hi>French overcome,</hi> which I <hi>abhor</hi> thinking of, the very <hi>names</hi> of things would be <hi>changed,</hi> and that <hi>moſt Holy</hi> Council be called <hi>Satan's Cabal,</hi> I no Pope, but the ſhadow of one, and they be ſaid onely to have acted by the <hi>Holy Spirit,</hi> and we done all things by the <hi>Spirit</hi> of the <hi>Devil:</hi> But I have great <hi>confidence</hi> that the <hi>Moneys</hi> I have left will <hi>prevent</hi> ſuch diſaſters.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>But what had you to ſay againſt the <hi>French</hi> and their King, him whom your Predeceſſors graced with the Title of moſt <hi>Chriſtian,</hi> eſpecially ſince under their <hi>protection</hi> you both <hi>confeſs</hi> to have lived, and been <hi>raiſed</hi> to that more then <hi>Imperial</hi> Crown, and laſtly to have by their Aid gained <hi>Bononia,</hi> and other Cities, and overcome the <hi>Venetians,</hi> till then unconquered. How could ſo many <hi>freſh kindneſſes</hi> be <hi>blotted</hi> out of your <hi>memory?</hi> How ſo many <hi>Leagues</hi> daſh'd in pieces?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>That's too long a ſtory to explain, but that I may do ſomething briefly, Nothing was <hi>innovated</hi> by me, but what I had long before <hi>conceived</hi> in my mind: Then I began to <hi>execute</hi> what formerly, to ſuit with the <hi>neceſſity</hi> of things I <hi>diſſembled,</hi> I now laid open. I ever in my heart <hi>hated</hi> the <hi>French.</hi> That you may ac<g ref="char:EOLhyphen"/>count
+<pb n="33" facs="tcp:205277:17"/>as ſpoken by <hi>an Oracle,</hi> nor can ever any <hi>Italian</hi> affect thoſe <hi>Barbarians,</hi> no more then the <hi>Wolf</hi> do's the <hi>Lamb:</hi> But I not only an <hi>Italian,</hi> but a <hi>Genoveſe,</hi> ſo long uſed them like <hi>Friends</hi> as I had need of them: Therefore whilſt theſe <hi>Barbarians</hi> were uſeful to me, I <hi>bore</hi> much, <hi>diſſembled</hi> much, and <hi>feigned</hi> many things: In ſhort, there was nothing I did not either <hi>do</hi> or <hi>ſuffer,</hi> but when things were brought to the <hi>State</hi> I wiſhed for, it was time to act the <hi>true Julius,</hi> and remove that whole <hi>ſum</hi> of <hi>Barbarians</hi> out of <hi>Italy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Peter.</hi>
+               </speaker>
+               <p>What kind of <hi>Beaſts</hi> are thoſe thou calleſt <hi>Barbarians?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>They are Men.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Men? but not <hi>Chriſtians.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Yes <hi>Chriſtians</hi> too; but what's that to the pur<g ref="char:EOLhyphen"/>poſe?</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>They are <hi>Chriſtians</hi> then it ſeems; but <hi>un<g ref="char:EOLhyphen"/>learned</hi> and leading a <hi>Ruſtick life.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>They are a moſt <hi>flouriſhing</hi> People, and eſpecial<g ref="char:EOLhyphen"/>ly which made us firſt envy them in <hi>riches.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Why do you then ſirname them <hi>Barbarians?</hi> What's that you mutter?</p>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <p>Let me now take a turn to ſpeak, <hi>Italy</hi> though it were daub'd and beſmear'd over with the filth of all <hi>barbarous</hi> Nations, ſo that it ſeem'd a very Jakes, yet from the Learning of the <hi>Gentiles</hi> had <hi>drunk</hi> in this <hi>mad<g ref="char:EOLhyphen"/>neſs</hi> that all born out of <hi>Italy</hi> they call <hi>Barbarians,</hi> which nick-name they account more <hi>reproachful</hi> than either <hi>Parricide</hi> or <hi>committer</hi> of <hi>Sacriledge.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>So it ſeems, but ſince <hi>Christ</hi> died for all men, and that with him there is no <hi>reſpect</hi> of Perſons: Whilſt thou <hi>profeſſest</hi> to be the <hi>Vicar</hi> of <hi>Chriſt,</hi> why do'ſt thou not <hi>receive</hi> all with the ſame <hi>mind</hi> among whom <hi>Christ</hi> has made no <hi>difference.</hi>
+               </p>
+            </sp>
+            <pb n="34" facs="tcp:205277:18"/>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>The truth is, I deſire to <hi>embrace</hi> both the <hi>In<g ref="char:EOLhyphen"/>dians, Africans,</hi> and <hi>Ethiopeans,</hi> ſo they would <hi>ſubmit</hi> and pay <hi>Tribute;</hi> but all theſe we caſt off, and next the <hi>Greeks,</hi> as men too <hi>cloſe fiſted,</hi> &amp; but <hi>ſlight</hi> acknowledgers of the <hi>Majeſty</hi> of the <hi>Pope.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Then the See of <hi>Rome</hi> is as it were the <hi>ſtore<g ref="char:EOLhyphen"/>houſe</hi> of <hi>all the World.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>And is it any mighty matter, if from all we reap <hi>carnal</hi> things, when to all we ſowe <hi>ſpiritual</hi> things?</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>What do'ſt thou talk of <hi>Spiritual</hi> things? I have heard nothing yet but what is <hi>Worldly?</hi> Perhaps thou do'ſt deliver the Holy Doctrine from Chriſt?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>There are thoſe may <hi>Preach</hi> if they will, nor do we <hi>prohibit</hi> them, provided they ſpeak <hi>nothing</hi> againſt our <hi>Majeſty.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>What then?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>What then? why ſhould whatever Kings <hi>exact</hi> be given, but that <hi>receiving</hi> it they ſhould ſingularly <hi>im<g ref="char:EOLhyphen"/>part,</hi> though from us they never <hi>receive</hi> any thing; for whatever is at any time <hi>Holy,</hi> is to be imputed to us, though we <hi>ſnore</hi> all days of our life. Though beſides that, we do give large <hi>Indulgences</hi> for a <hi>little</hi> Money. We <hi>diſpence</hi> with <hi>heinous</hi> matters for no <hi>mighty</hi> ſum, and <hi>bleſs</hi> all we meet everywhere and that for <hi>nothing.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>The truth is, I <hi>underſtand</hi> none of theſe things; but to return to what we were <hi>diſputing</hi> of: Why do's your <hi>moſt ſacred Majeſty</hi> ſo much abhor the <hi>Barbarians,</hi> that <hi>Heaven</hi> and <hi>Earth</hi> muſt be brought to<g ref="char:EOLhyphen"/>gether, rather then they not <hi>driven</hi> out of <hi>Italy?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>All kind of <hi>barbarous</hi> People are <hi>ſuperſtitious,</hi> e<g ref="char:EOLhyphen"/>ſpecially the <hi>French;</hi> for the <hi>Spaniard</hi> do's not ſo ill a<g ref="char:EOLhyphen"/>gree with us, whether you reſpect their <hi>language</hi> or their <hi>manners.</hi> And yet theſe I would have <hi>removed</hi> too, that I might at more <hi>liberty</hi> have acted my own <hi>pleaſure.</hi>
+               </p>
+            </sp>
+            <pb n="35" facs="tcp:205277:18"/>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Why? do they, beſides <hi>Chriſt,</hi> worſhip other Gods?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>No, but they too <hi>diligently</hi> and <hi>anxiouſly</hi> worſhip <hi>Chriſt</hi> himſelf, and with ſome <hi>ancient</hi> and long-ſince <hi>obſolete</hi> words 'tis a miracle how fooliſh men are moved.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Perhaps they'r Magick?</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>You <hi>trifle.</hi> They'r <hi>Simony, Blaſphemy, Sodomy, Witchcraft</hi> and <hi>Sorcery.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>Hold: good words pray.</p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>As thou now <hi>abhor'st</hi> them, ſo do they.</p>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Pet.</hi>
+               </speaker>
+               <p>I meddle not with <hi>Names,</hi> the things themſelves are with <hi>you,</hi> I will not ſay they'r with any <hi>Chriſtians.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jul.</speaker>
+               <p>Surely the <hi>Barbarians</hi> themſelves want not their <hi>vices,</hi> but are infected with <hi>divers,</hi> only they <hi>curſe</hi> and <hi>execrate</hi> ours, and <hi>flatter</hi> themſelves in their <hi>own;</hi> on the contrary, we <hi>cheriſh</hi> our ſelves in ours, and <hi>abhor</hi> theirs. We eſteem <hi>Poverty</hi> an abominable <hi>reproach,</hi> which <hi>right</hi> or <hi>wrong</hi> is to be <hi>avoided;</hi> They ſcarce think a <hi>Chriſtian</hi> ought to enjoy any <hi>Riches,</hi> unleſs ſuch as are <hi>gained</hi> without <hi>fraud.</hi> We ſcarce dare name <hi>Drunkenneſs</hi> (though I muſt confeſs in that I ſhould not ſo <hi>vehemently</hi> diſſent from them if they would <hi>agree</hi> in other things); but the <hi>Germans</hi> think it a <hi>venial ſin,</hi> and rather <hi>merry</hi> then <hi>wicked.</hi> They violently <hi>ban</hi> and <hi>deteſt <g ref="char:V">Ʋ</g>ſury;</hi> we think no ſort of men more <hi>uſeful</hi> and <hi>neceſſary</hi> to the <hi>Church. Prepoſtrous Venery,</hi> or <hi>Sodomy,</hi> they look upon as ſo <hi>filthy,</hi> that whoever do's but ſo much as name it, they think <hi>pollutes</hi> the very <hi>Sun</hi> and <hi>Air;</hi> we think <hi>quite</hi> otherwiſe: So for <hi>Simony,</hi> a word quite <hi>baniſhed</hi> out of <hi>nature,</hi> they yet fear the <hi>ſhadow</hi> of, and <hi>ſtubbornly</hi> hold faſt to <hi>old</hi> and <hi>decayed</hi> Laws: We look a clean contrary way: And of this kind there are many others wherein the <hi>Barbarians</hi> agree not with us, whereupon, whilſt we lead ſuch <hi>a different</hi> courſe of life, they are to be forbid <hi>prying</hi> into our <hi>my<g ref="char:EOLhyphen"/>ſteries,</hi> and to be <hi>ſuſpected</hi> though they are <hi>ignorant</hi> of them; for if once they underſtood the <hi>ſecrets</hi> of our <hi>Court,</hi> they would pre<g ref="char:EOLhyphen"/>ſently <hi>divulge</hi> them; and by what means, I know not, they are moſt <hi>clear ſighted</hi> in <hi>reproving Vices:</hi> They write moſt <hi>ſcandalous</hi> Letters to their <hi>Country-men,</hi> and make a <hi>clamor</hi> everywhere, that with us is not the <hi>ſeat</hi> of <hi>Chriſt,</hi> but the <hi>ſink</hi> of <hi>Satan.</hi> They <hi>di<g ref="char:EOLhyphen"/>ſpute</hi> of me, whether <hi>gaining</hi> in ſuch a manner the <hi>Chair,</hi> and <hi>li<g ref="char:EOLhyphen"/>ving</hi> as I did, I ought to be eſteemed as <hi>Pope.</hi> And thus in the firſt place they at once <hi>leſſen</hi> among <hi>ignorant</hi> people the <hi>opinion</hi> of
+<pb n="36" facs="tcp:205277:19"/>our <hi>Holineſs</hi> and our <hi>Authority,</hi> who before had never heard any thing of us but that we acted in <hi>Chriſt</hi>'s <hi>ſtead</hi> upon <hi>Earth,</hi> and held the next place, and therefore were <hi>Peers</hi> to <hi>God</hi> in Power; and from theſe things <hi>intollerable</hi> dammage <hi>accrues</hi> to the Church. We <hi>ſell</hi> fewer <hi>Diſpenſations</hi> and at a <hi>lower</hi> rate: There comes in leſs <hi>Revenue</hi> from <hi>Biſhopricks, Benefices</hi> and <hi>Abbeys:</hi> The <hi>common</hi> people, if any thing be <hi>exacted</hi> from them, pay it with an ill will: In ſhort, every where the <hi>gain</hi> is leſs, and the <hi>Market</hi> thinner: And laſt of all, our <hi>Thunder-bolts</hi> do <hi>leſs</hi> and <hi>leſs</hi> frighten; ſo that if once their <hi>boldneſs</hi> ſhould fly ſo high as to declare a <hi>wicked Pope</hi> could do <hi>nothing,</hi> and ſo contemn our <hi>Threatnings</hi> and <hi>Excommu<g ref="char:EOLhyphen"/>nications,</hi> we ſhould be in a condition of <hi>ſtarving.</hi> But if they were once got further off (ſuch is the wit of the <hi>Barbarians</hi>) they would more <hi>aſſiduouſly</hi> adore us, and we by Letters <hi>aptly</hi> writ, would drive theſe <hi>thoughts</hi> from their minds. St. <hi>Pet.</hi> This is not fair dealing, if herein depends the <hi>Apoſtolical Authority</hi> that your lives ſhould be <hi>cloked,</hi> and your <hi>frauds</hi> concealed. We uſed to <hi>wiſh</hi> nothing <hi>more</hi> then that what we did in our <hi>Chambers</hi> might be known to all the <hi>World,</hi> and therefore for the moſt we <hi>ordered</hi> our actions as if <hi>all eyes</hi> had been <hi>upon</hi> us: But to proceed, Has the World now ſuch <hi>Religious</hi> Princes, and is their <hi>reverence</hi> to Prieſts ſo great, that at the nod of one, and he ſuch a one too, they will <hi>univerſally</hi> take Arms? for in my time we ſuffered under thoſe <hi>deadly</hi> and <hi>deſpiteful</hi> Enemies. <hi>Jul.</hi> As for matter of <hi>life</hi> they are not ſuch <hi>ſuperſtitious Chriſtians,</hi> they plainly contemn us, and look upon us as <hi>trifles,</hi> unleſs ſome of the <hi>weaker</hi> of them ſtand in awe of that terrible <hi>thunder-bolt</hi> of <hi>Excommunieation,</hi> nor are they with it moved <hi>indeed</hi> and in <hi>truth</hi> of opinion; There are thoſe which <hi>hope</hi> for, or <hi>fear</hi> our Riches, and for that <hi>yield</hi> not a little to our <hi>Authority.</hi> Some are perſwaded that great <hi>misfortunes</hi> will perſecute thoſe who in any affair give any <hi>vexation</hi> to the <hi>Prieſthood,</hi> almoſt all as they are <hi>civilly</hi> Educated do ſomewhat fa<g ref="char:EOLhyphen"/>vour <hi>Ceremonies,</hi> eſpecially <hi>encouraged</hi> by us, for <hi>Ceremonies</hi> and <hi>Fables</hi> keep the Vulgar in awe. So that one thing with another the <hi>game</hi> goes ſeriouſly on. We <hi>grace</hi> them with <hi>magnificent titles</hi> though they be the <hi>wickedſt</hi> of men, Calling this <hi>Catholick,</hi> a ſe<g ref="char:EOLhyphen"/>cond <hi>moſt Serene,</hi> a third <hi>moſt Illuſtrious,</hi> a fourth <hi>Auguſtus,</hi> all of them <hi>beloved Sons;</hi> and they in return ſtill call us <hi>Most Holy Fa<g ref="char:EOLhyphen"/>thers</hi> in their Letters, and oft-times have <hi>ſubmitted</hi> themſelves to
+<pb n="37" facs="tcp:205277:19"/>
+                  <hi>kiſs our Feet,</hi> and when the matter treated of is not too <hi>mighty,</hi> yield it often to our <hi>Authority,</hi> whereby they gain themſelves an <hi>opinion</hi> of Piety among the <hi>Vulgar;</hi> We ſend them conſecrated <hi>Roſes, Tiara's, Swords,</hi> and confirm their <hi>Dignity</hi> with moſt <hi>power<g ref="char:EOLhyphen"/>ful Bulls;</hi> they again ſend us <hi>Horſes, Souldiers, Money,</hi> and ſome<g ref="char:EOLhyphen"/>times <hi>Boyes;</hi> and thus as the ſaying is, <hi>the Mules ſcrub one another.</hi> St. <hi>Pet.</hi> If they be ſuch, I do not underſtand upon what account you could ſtir up ſuch <hi>Potent</hi> Kings to ſuch <hi>diſmal</hi> Wars, &amp; eſpe<g ref="char:EOLhyphen"/>cially to the <hi>breaking</hi> of ſo many <hi>Leagues. Jul.</hi> But if you are capable of <hi>conceiving</hi> thoſe things I am about to tell you, you will underſtand more then <hi>Apoſtolick Wit.</hi> St. <hi>Pet.</hi> I will <hi>endeavour</hi> it as much as I can. <hi>Jul.</hi> My <hi>ſtudy</hi> then in the firſt place was to underſtand the <hi>Genius, Manners, Inclination, Riches</hi> and <hi>Deſigns</hi> of all People, who <hi>agreed</hi> with <hi>who,</hi> and <hi>who</hi> and <hi>who</hi> were at <hi>enmity;</hi> then turning all this to <hi>advantage,</hi> in the firſt place I eaſily ſet the <hi>French</hi> againſt the <hi>Venetians,</hi> becauſe there happened to be an old grudge between them.</p>
+               <p>Moreover, we knew that people greedy of <hi>Proroguing</hi> Empire, and the <hi>Venetians</hi> likewiſe had ſome Cities of theirs in Poſſeſſion. Therefore I mingled my <hi>buſineſs</hi> with their <hi>buſineſs;</hi> Then as to the <hi>Emperour,</hi> though otherwiſe he were not any great Friend to the <hi>French,</hi> yet having no other hope of regaining from the <hi>Ve<g ref="char:EOLhyphen"/>netians</hi> what they held from him (for they held ſeveral large Cities) he joyned himſelf for the time in this War. At length when I did not like that the <hi>French</hi> ſhould grow too powerful (for matters <hi>ſucceeded</hi> beyond what I <hi>deſired</hi>) I ſtir'd up the King of <hi>Spain</hi> againſt them, a man in the firſt place of no <hi>Ada<g ref="char:EOLhyphen"/>mantine</hi> Faith, and in the next obliged to <hi>oppreſs</hi> the growing pow<g ref="char:EOLhyphen"/>er of the <hi>French,</hi> among many other reaſons, for fear of being <hi>Ex<g ref="char:EOLhyphen"/>cluded</hi> the Realm of <hi>Naples.</hi> Then though I approved not of their doings, I feignedly received the <hi>Venetians</hi> into favour, that now <hi>imbittered</hi> by Sufferings, I might let their rage looſe upon the <hi>French:</hi> And again, the <hi>Emperour</hi> whom but a little before I had joyned with the <hi>French,</hi> I drew away from their Party, and that partly by <hi>Moneys</hi> which are always prevalent with a <hi>needy</hi> man, partly by <hi>Letters</hi> and <hi>Nuntio's,</hi> whetting his ancient hate to the <hi>French,</hi> with which he had ever <hi>burnt,</hi> although there wanted an opportunity of <hi>Revenge.</hi> Then the <hi>Engliſh</hi> I knew to have a na<g ref="char:EOLhyphen"/>tural hatred againſt the <hi>French,</hi> and beſides underſtood that Nation
+<pb n="38" facs="tcp:205277:20"/>to be <hi>forward</hi> and <hi>deſirous</hi> of War, principally out of hopes of the <hi>ſpoil:</hi> Laſtly, at that time through the new <hi>liberty</hi> which hap<g ref="char:EOLhyphen"/>pened to them by the death of one of their <hi>Severeſt</hi> Kings, they were grown <hi>inſolent</hi> and almoſt <hi>rebellious,</hi> and ſo eaſily ſtirr'd up to any <hi>madneſs.</hi> There was to theſe <hi>conveniencies</hi> for my Affairs another added, That that King was <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Youth, or rather a Boy, and lately came to the Kingdom, of a <hi>brisk</hi> and <hi>lively</hi> wit, but tru<g ref="char:EOLhyphen"/>ly <hi>youthful,</hi> that is, <hi>unquiet</hi> and <hi>Warlike,</hi> who even from his very <hi>Infancy</hi> is ſaid to have wiſhed that he might wage War with the <hi>French.</hi> Above all he was Kinſman to the King of <hi>Spain,</hi> whom I had already drawn to Arms. All theſe things I turned to the <hi>Churches</hi> benefit, and by <hi>ſix hurdred</hi> Letters <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>one of them writ without <hi>cunning,</hi> at length involved all thoſe Princes in a bloody War, nor did I leave the reſt <hi>unattempted,</hi> that is, neither the Kings of <hi>Hungary, Portugal,</hi> nor the Kingly Duke of <hi>Burgundy;</hi> but becauſe none of theſe things were any of their <hi>concerns,</hi> I could not <hi>compel</hi> them; and I knew if I raiſed any of them to a <hi>ſtorm,</hi> none of the reſt would <hi>quiet</hi> them. Theſe therefore ſince they would act after their own way, received ſo <hi>honeſt</hi> a Title from us that the more deſtruſtion they brought to <hi>Chriſtian</hi> People, the more <hi>Religiouſly</hi> they ſeem'd to <hi>protect</hi> the <hi>Church</hi> of God. And that you may more <hi>admire</hi> either my <hi>wit</hi> or my <hi>happineſs;</hi> The King of <hi>Spain</hi> at that time warr'd againſt the <hi>Turks</hi> with <hi>incre<g ref="char:EOLhyphen"/>dible</hi> ſucceſs, and to his great advantage, and yet leaving off all that, he turned his whole <hi>ſtrength</hi> againſt the <hi>French:</hi> Moreover, the <hi>Emperour</hi> who was not only tyed by many Leagues; but by many great good Offices to the <hi>French,</hi> were it but this, that by their labour and charge he had recovered and received his Cities in <hi>Italy,</hi> and had only this to do to defend his own, and being already departed from <hi>Padua,</hi> and gone towards <hi>Burgundy,</hi> to the end to drive out the <hi>Geldrians</hi> a Potent Enemy (againſt whom he had been the Author of raiſing the War,) out of his Nepheus the Duke of <hi>Burgundy</hi>'s Countrey; yet I ſo brought it about, that neglecting his own Affairs he ſhould follow mine. Then there is no People among whom the Pope's Authority is of leſs value then the <hi>Engliſh</hi> (which will eaſily appear to any, ſhall turn over the life of St. <hi>Thomas of Canterbury,</hi> and the ancient Conſtitutions of their Kings) yet that Nation moſt <hi>impatient</hi> of any <hi>Exactions</hi> now ſuffered themſelves to be <hi>fleeced:</hi> but it is a wonder that the
+<pb n="39" facs="tcp:205277:20"/>
+                  <hi>Prieſts</hi> who uſed to <hi>ſend</hi> us all they could <hi>gather,</hi> I brought to this, that they <hi>paid</hi> the <hi>tribute</hi> to the King, without <hi>conſider<g ref="char:EOLhyphen"/>ing</hi> what a <hi>door</hi> they had <hi>opened</hi> for Kings hereafter. Nor were the King's ſufficiently <hi>aware</hi> what <hi>preſident</hi> they made againſt themſelves, to wit, that the <hi>Roman Prelate</hi> might afterwards <hi>di<g ref="char:EOLhyphen"/>ſturb</hi> the Kingdom if he <hi>diſliked</hi> the <hi>Prince.</hi> And that King being young, went <hi>fiercer</hi> on then I <hi>deſired</hi> or <hi>commanded,</hi> and yet I was better pleaſed he ſhould <hi>ſin</hi> on that ſide: but it would be too long to declare particularly by what <hi>arts</hi> I ſtirr'd up all theſe Princes to ſo <hi>dreadful</hi> a War againſt <hi>Chriſtians,</hi> which never any <hi>Pope</hi> could <hi>Excite</hi> them to againſt <hi>Turks.</hi> St. <hi>Pet.</hi> But it may happen that this <hi>firebrand</hi> of War <hi>thrown</hi> about by thee, may <hi>ſet</hi> the whole World in a <hi>flame. Jul.</hi> Let it <hi>flame</hi> ſo the See of <hi>Rome</hi> preſerve its <hi>dignity</hi> and <hi>poſſeſſions,</hi> for I have endeavoured to remove all the <hi>weight</hi> of the War out of <hi>Italy</hi> and <hi>throw</hi> it upon the <hi>Barbari<g ref="char:EOLhyphen"/>ans;</hi> let them <hi>fight</hi> as long as they pleaſe, we will <hi>look</hi> on, and per<g ref="char:EOLhyphen"/>haps <hi>enjoy</hi> the fruits of their <hi>madneſs.</hi> St. <hi>Pet.</hi> Is this what be<g ref="char:EOLhyphen"/>comes the <hi>Paſtor,</hi> and <hi>Holy Father,</hi> and <hi>Vicar of Chriſt. Jul.</hi> Why do they raiſe <hi>Schiſms?</hi> St. <hi>Pet.</hi> But <hi>diſtempers</hi> are ſometimes to be <hi>born</hi> with when there is more <hi>evil</hi> in the <hi>cure</hi> then <hi>diſeaſe;</hi> and then had you <hi>admitted</hi> a <hi>Council,</hi> there had been no occaſion of <hi>Sehiſm. Jul.</hi> Soft and fair. I had rather <hi>ſix thouſand</hi> Wars then one <hi>Council;</hi> what if they ſhould <hi>remove</hi> me from the <hi>Papacy?</hi> what if they ſhould <hi>rip</hi> up my whole life, and <hi>lay</hi> it open to the <hi>vulgar?</hi> St. <hi>Pet.</hi> Yet wert thou a <hi>true Biſhop,</hi> thou wouldſt rather be content to <hi>relinquiſh</hi> this Honour, then defend thy <hi>dignity</hi> with ſo much <hi>miſchief</hi> to the <hi>Chriſtian</hi> World; but thus it will be, when the <hi>Biſhoprick</hi> is <hi>committed</hi> to one <hi>unworthy</hi> that <hi>Dignity,</hi> and not indeed <hi>committed</hi> but <hi>bought</hi> or <hi>ſtole,</hi> whereupon it comes in my mind, that thou by <hi>divine approbation</hi> didſt become a <hi>plague</hi> to the <hi>French,</hi> who firſt made thee a <hi>plague</hi> to the Church. <hi>Jul.</hi> By my <hi>triple Crown</hi> and my moſt <hi>renowned Triumphs,</hi> I ſwear that if thou moveſt my <hi>auger</hi> thou ſhalt <hi>feel too</hi> the power of <hi>Julius.</hi> St. <hi>Pet.</hi> Oh madman! But to go on, hitherto I have heard nothing but of a <hi>great Captain,</hi> not of an <hi>Eccleſiaſtick;</hi> of a <hi>Worldly</hi> man, and not of a <hi>Worldly</hi> man only, but of a <hi>Heathen,</hi> even the moſt wicked of <hi>Heathens.</hi> Thy greateſt boaſts are, that thou canſt <hi>break Leagues</hi> and <hi>Truces, inflame</hi> men to <hi>War,</hi> and <hi>excite</hi> them to <hi>Slaughters;</hi> this is the power of <hi>Satan,</hi> not of a <hi>Biſhop.</hi> He that makes himſelf
+<pb n="40" facs="tcp:205277:21"/>the <hi>Vicar of Christ,</hi> ought as near as he can to <hi>follow</hi> his <hi>Example;</hi> there is in him <hi>height</hi> of <hi>power</hi> but joyn'd with <hi>height</hi> of <hi>goodueſs:</hi> there is in him the <hi>highest</hi> wiſdom, but moſt <hi>pure</hi> and <hi>ſimple.</hi> In thee I ſee the <hi>image</hi> of power link'd with a <hi>depth</hi> of malice and <hi>height</hi> of folly; ſo that if the Prince of the wicked, <hi>the Devil,</hi> would <hi>ſurrogate</hi> his <hi>Vicar,</hi> whom could he better <hi>pitch</hi> upon then one like thee? Tell me what didſt thou ever do like an <hi>Apoſtolical</hi> man? <hi>Jul.</hi> What can be more <hi>Apoſtolical</hi> then to <hi>augment</hi> the <hi>Church</hi> of <hi>Christ.</hi> St. <hi>Pet.</hi> But if the <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hurch</hi> are the <hi>Chriſtian</hi>-People <hi>compacted</hi> together by the <hi>Spirit</hi> of <hi>Christ,</hi> thou ſeem'ſt to me to be the <hi>ſubverter</hi> of this Church, whilſt thou thus <hi>provokest</hi> the World to horrid War, that only thou mayſt go <hi>unpuniſhed</hi> in thy wickedneſs. <hi>Jul.</hi> We call the Church the <hi>Holy Houſes,</hi> the <hi>Prieſts,</hi> and eſpecially the <hi>Court</hi> of <hi>Rome: my ſelf</hi> in the firſt place who am <hi>head</hi> of the <hi>Church.</hi> St. <hi>Pet.</hi> But <hi>Christ</hi> made us <hi>Mini<g ref="char:EOLhyphen"/>ſters</hi> and himſelf <hi>the Head,</hi> unleſs a ſecond <hi>Head</hi> be ſince grown; but with what, pray, is the <hi>Church</hi> increaſed? <hi>Jul.</hi> Now you come to the matter, that <hi>Church</hi> formerly <hi>hunger-ſtarv'd</hi> and <hi>poor,</hi> now <hi>flouriſhes</hi> with all <hi>Ornaments.</hi> St. <hi>Pet.</hi> With what? with <hi>fervency</hi> of <hi>Faith? Jul.</hi> Thou'rt idle. St. <hi>Pet.</hi> With <hi>contempt</hi> of the <hi>World? Jul.</hi> pray let me tell you it's <hi>true</hi> ornaments, for theſe are but words. St. <hi>Pet.</hi> With what then? <hi>Jul.</hi> With <hi>Re<g ref="char:EOLhyphen"/>gal Palaces,</hi> with <hi>beautiful Horſes</hi> and <hi>mules,</hi> with a noble <hi>Train</hi> and <hi>Attendants,</hi> with abundant <hi>Riches</hi> &amp; with honorable <hi>Guards. (Gen.</hi> With beautiful <hi>Whores,</hi> with ready and obedient <hi>Pandors</hi>) <hi>Jul.</hi> With <hi>Gold, Purple, Revenues,</hi> ſo that no King but would ſeem <hi>poor</hi> and <hi>humble</hi> were his compared with the <hi>riches</hi> and <hi>ſplendor</hi> of the <hi>Roman Prelates,</hi> none ſo <hi>Ambitious</hi> but would confeſs himſelf out-done, none ſo <hi>magnificent</hi> and <hi>ſtately</hi> but would condemn his <hi>frugality,</hi> none ſo ſtored with <hi>Money,</hi> nor no <hi>
+                     <g ref="char:V">Ʋ</g>ſurer,</hi> but would envy our <hi>Riches;</hi> theſe are the <hi>Ornaments</hi> which I have both <hi>pre<g ref="char:EOLhyphen"/>ſerved</hi> and <hi>increaſed.</hi> St. <hi>Pet.</hi> But tell me who firſt of all <hi>loaded</hi> and <hi>defiled</hi> the Church which <hi>Christ</hi> would have <hi>light</hi> and <hi>pure</hi> with ſuch <hi>Ornaments</hi> as theſe? <hi>Jul.</hi> What's that to the purpoſe? that we are certainly Head, we <hi>hold, poſſeſs,</hi> and <hi>enjoy,</hi> though they ſay a certain <hi>Conſtantine</hi> conveyed over to <hi>Sylveſter Pope</hi> of <hi>Rome</hi> all and univerſal his Imperial Majeſty, Trappings, Horſes, Cha<g ref="char:EOLhyphen"/>riots, Helmets, Belts, Coats of Mail, Sergeants, Swords, golden Crowns, pure Gold, Armies, Warlick Engines, Cities and King<g ref="char:EOLhyphen"/>doms.
+<pb n="41" facs="tcp:205277:21"/>St. <hi>Pet.</hi> Remain there any Monuments of this <hi>Manificence? Jul.</hi> Nothing but a
+<note n="*" place="margin">
+                     <hi>By</hi> Straw <hi>is meant onely a Comment added to the Decrees of</hi> Gratia<g ref="char:EOLhyphen"/>nus.</note> 
+                  <hi>Straw</hi> mixt with the <hi>Decrees.</hi> St. <hi>Pet.</hi> Per<g ref="char:EOLhyphen"/>haps 'tis a fable. <hi>Jul.</hi> I think ſo my ſelf, for who in his <hi>right wits</hi> would <hi>ſurrender</hi> ſo <hi>magnificent</hi> an <hi>Empire</hi> though it were to his <hi>Father;</hi> but however it ought <hi>mightily</hi> to be believed, and on all that endeavour to <hi>refute</hi> it, we <hi>impoſe</hi> a deep ſtrict <hi>ſilence.</hi> St. <hi>Pet.</hi> But I hear nothing yet but of the World. <hi>Jul.</hi> Perhaps thou dreameſt ſtill of that ſame <hi>Church</hi> in which thou with a few <hi>hunger-ſtarved Biſhops</hi> didſt enjoy a cold <hi>Popedom,</hi> obnoxious to <hi>poverty, labours, ſweatings, dangers,</hi> and a thouſand other <hi>inconveniencies;</hi> Time now has changed all things for the better, and the <hi>Pope of Rome</hi> is much another thing; For thou wert only <hi>chief Biſhop</hi> in Name and Title: But if now thou ſhouldſt behold ſo many <hi>Holy Houſes</hi> built with the <hi>Riches</hi> of Kings, ſo many thouſands of <hi>Prieſts</hi> everywhere, and moſt with <hi>large</hi> Benefices; So many <hi>Biſhops</hi> equal with <hi>Princes</hi> in <hi>Power</hi> and <hi>Riches;</hi> ſo many ſumptuous <hi>Palaces</hi> of the <hi>Clergy;</hi> Eſpe<g ref="char:EOLhyphen"/>cially ſaw you but at <hi>Rome</hi> ſo many <hi>ſearlet Cardinals</hi> with whole Legions of hired Servants; ſo many Kingly Horſes, ſo many Mules adorned with Tiſſue, Gold, and Gems, and ſome of them ſhod with Gold and Silver; Then if you ſaw the <hi>Pope</hi> aloft in his <hi>Golden Seat</hi> carried upon Souldiers ſhoulders, and at the wag of his hand all People <hi>adoring</hi> him. If you heard the noiſe of the Guns, the ſound of the Trumpets, the melody of the Flutes, and the flaſhes of the Fire-works, the Peoples Acclamations and Applauſes, and the whole City ſhining with Torches, whilſt <hi>Sovereign</hi> Princes are ſcarce admitted to kiſs his feet. If you ſaw that <hi>Roman Prelate</hi> with his <hi>Foot</hi> putting the Crown upon the Head of the <hi>Roman Emperour,</hi> who is King of all Kings (if ancient Records are of any value, or can intitle to any right) though now he <hi>gains</hi> nothing but the <hi>ſhadow</hi> of that <hi>mighty Name.</hi> Theſe things if thou ſhouldſt <hi>ſee</hi> and <hi>hear,</hi> what wouldſt thou then ſay? St. <hi>Pet.</hi> That I ſaw worſe then any <hi>Heatheniſh</hi> Tyrant, the <hi>Enemy of Christ,</hi> and <hi>Plague of the Church. Jul.</hi> Thou wouldſt ſay another thing if thou hadſt ſeen but one of my <hi>Triumphs,</hi> either that, when I was carried in<g ref="char:EOLhyphen"/>to <hi>Bononia;</hi> or when I entred <hi>Rome,</hi> having o'recome the <hi>Veneti<g ref="char:EOLhyphen"/>ans;</hi> or when flying from <hi>Bononia,</hi> I re-entred <hi>Rome;</hi> or when laſtly the <hi>French</hi> were ſo beyond all hope Routed at <hi>Ravenna;</hi> If thou hadſt but ſeen the ſtately Courſers, the numerous Bands of Souldiers, the delightful ſpectacles of <hi>delicate Boyes,</hi> the Torches ſhining on all ſides, the mighty feaſtival Preparations, the Pomp
+<pb n="42" facs="tcp:205277:22"/>of <hi>Biſhops,</hi> the Pride of <hi>Cardinals,</hi> the Trophys and Spoils of <hi>War,</hi> the rebounding Acclamations of People and Souldiers, the Ap<g ref="char:EOLhyphen"/>plauſes ecchoing everywhere, the winding of the Cornets, the thundring of the Drums, the lightning of the Guns, the Money thrown among the People; ſaw you, I ſay, but all this, and at laſt <hi>Me,</hi> the <hi>Head</hi> and <hi>Author</hi> of all this <hi>Pomp,</hi> carried aloft like a <hi>Deity,</hi> you would ſay the <hi>Triumphs</hi> of the <hi>Scipio</hi>'s, <hi>Emilius</hi>'s, and <hi>Augu<g ref="char:EOLhyphen"/>ſlus</hi>'s were frugal in compariſon of mine. St. <hi>Pet.</hi> Hold, hold, enough of <hi>Triumphs</hi> moſt glorious <hi>Souldier;</hi> yet them, though Heathens, do I prefer before thee, whom having for thy Cauſe ſlain ſo many thouſand <hi>Chriſtians,</hi> yet <hi>Triumpheſt</hi> like a <hi>Holy Father</hi> in <hi>Christ:</hi> Of ſo many <hi>ſlaughtered</hi> Legions thou art the <hi>Cauſe,</hi> who never either by <hi>Life</hi> or <hi>Doctrine</hi> gainedſt one <hi>Soul</hi> to <hi>Chriſt,</hi> O fatherly bowels! O worthy <hi>Vicar</hi> to that <hi>Christ,</hi> who died himſelf to ſave all, whilſt thou to defend one <hi>peſtilent</hi> Head, calleſt all the World t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>deſtruction. Jul.</hi> You talk theſe things becauſe you <hi>envy</hi> my glory when you think how <hi>pitiful</hi> and <hi>mean</hi> your Biſhoprick was in compariſon of <hi>mine.</hi> St. <hi>Pet.</hi> Dareſt thou, <hi>impudent,</hi> compare thy Glory with mine? Though my <hi>Glory</hi> be not mine but <hi>Chriſt</hi>'s. In the firſt place, if thou allow'ſt <hi>Chriſt</hi> to be the <hi>beſt</hi> and the <hi>true</hi> Prince of the <hi>Church,</hi> to me he gave the <hi>Keyes</hi> of the <hi>Kingdom,</hi> to me <hi>committed</hi> the <hi>feeding</hi> of his <hi>Sheep,</hi> and my <hi>Faith</hi> with his own mouth He <hi>approved;</hi> Thou by <hi>Mon<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y, induſtry of man,</hi> and <hi>fraud,</hi> waſt made <hi>Chief Paſtor,</hi> if ſuch a one may be called a <hi>Paſtor.</hi> I <hi>gained</hi> ſo many <hi>thouſand</hi> Souls to <hi>Chriſt;</hi> Thou <hi>betrayedſt</hi> as many to <hi>perdition:</hi> When <hi>Rome</hi> was yet <hi>Gentile</hi> I firſt taught it <hi>Chriſt,</hi> thou art become a Maſter of <hi>Chriſtian Heatheniſm:</hi> I even with the <hi>ſhadow</hi> of my body <hi>healed</hi> the <hi>Sick, caſt</hi> out <hi>Devils, raiſed</hi> the <hi>Dead,</hi> and where-ever I came was <hi>beneficial</hi> to ſome; What have all thy <hi>Triumphs</hi> equal to that? with a word of my mouth I could <hi>deliver</hi> whom I would to <hi>Satan,</hi> and what my Power <hi>reach'd to</hi> was <hi>experienced</hi> in <hi>Saphira</hi> and her <hi>Husband,</hi> yet whatever Power I had, I employ'd for the <hi>benefit</hi> of mankind: Thou <hi>uſeleſs</hi> to all, whatever thou couldſt do, nay, and whatever thou couldſt not do, thou <hi>perverteſt</hi> to the publick <hi>dammage</hi> of the whole World. <hi>Jul.</hi> I wonder in the <hi>Catalogue</hi> of your <hi>Glories,</hi> you do not add theſe too, <hi>Poverty, Watchings, Labours, Judgment-Seats, Priſons, Bonds, Scorns, Reproaches, Stripes,</hi> and finally the <hi>Croſs?</hi> St. <hi>Pet.</hi> Thou adviſeſt evil now: for in theſe I may more juſtly <hi>glory</hi> then my <hi>Miracles.</hi> In theſe <hi>Chriſt</hi> bid us be <hi>glad</hi> and <hi>rejoyce,</hi> in theſe he cal<g ref="char:EOLhyphen"/>led
+<pb n="43" facs="tcp:205277:22"/>us <hi>Bleſſed.</hi> So <hi>Paul,</hi> once my <hi>Colleague,</hi> when he boaſted his <hi>great works,</hi> mentions not <hi>Cities</hi> gained by <hi>violence, Legions</hi> ſlain with the <hi>Sword, Prin<g ref="char:EOLhyphen"/>ces</hi> of the World <hi>provoked</hi> to <hi>War,</hi> nor Tyrannical <hi>Pride,</hi> but <hi>ſhipwrack, bonds, ſcourgings, dangers, lyings in wait</hi> for his life. This is the true <hi>Apo<g ref="char:EOLhyphen"/>ſtolical</hi> Triumph, this is the <hi>glory</hi> of a <hi>Chriſtian</hi> Captain. He <hi>boaſts</hi> of thoſe he had <hi>drawn</hi> from <hi>ſin,</hi> not how many <hi>millions</hi> of Duckets he had <hi>horded</hi> up. Laſtly, we to <hi>Eternity</hi> triumph with <hi>Chriſt,</hi> being <hi>praiſed</hi> even by the worſt of men; thou art <hi>curſed</hi> by all, unleſs thoſe like thee, or ſome flatterer. <hi>Jul.</hi> Theſe are things I never heard before. St. <hi>Pet.</hi> I believe it, for what leaſure hadſt thou to turn over <hi>Evangelical</hi> writings to read <hi>Paul</hi>'s or my Epiſtles, whilſt ſo many <hi>Negotiations</hi> ſo many <hi>Treaties,</hi> ſo many <hi>Leagues,</hi> ſo many <hi>Armies,</hi> ſo many <hi>Triumphs</hi> took up thy whole employment. Other Arts do indeed deſire a mind <hi>releaſed</hi> from <hi>ſordid</hi> cares; but the Diſcipline of <hi>Chriſt</hi> requires a <hi>breaſt</hi> wholly <hi>purged</hi> from all worldly <hi>ſolicitudes,</hi> nor did ſo great a <hi>Maſter</hi> deſcend from Heaven to Earth to <hi>teach</hi> men an eaſie or vul<g ref="char:EOLhyphen"/>gar <hi>Philoſophy,</hi> 'tis no <hi>idle</hi> nor <hi>ſecure</hi> Profeſſion to be a <hi>Chriſtian:</hi> To <hi>avoid</hi> all <hi>pleaſure</hi> like <hi>poiſon,</hi> To <hi>trample</hi> on <hi>riches</hi> as <hi>dirt,</hi> To <hi>eſteem life</hi> it ſelf as <hi>nothing,</hi> this is the Chriſtian-man's Profeſſion; theſe, becauſe they ſeem <hi>in<g ref="char:EOLhyphen"/>tollerable</hi> to thoſe who are not <hi>actuated</hi> with the Spirit of <hi>Chriſt dwindle</hi> in<g ref="char:EOLhyphen"/>to idle <hi>words,</hi> and meer <hi>ceremonies,</hi> and to a <hi>fictitious</hi> Head of <hi>Chriſt</hi> and a <hi>fictitious</hi> Body. <hi>Jul.</hi> What <hi>remains</hi> of good are there then for <hi>me,</hi> if you take away my <hi>Money,</hi> if you deprive me of my <hi>Kingdoms,</hi> rob me of my <hi>Revenues,</hi> reſtrain me of my <hi>Pleaſures,</hi> and at laſt take away my <hi>Life?</hi> St. <hi>Pet.</hi> By this thou pronounceſt <hi>Chriſt</hi> himſelf unhappy, who being <hi>chief</hi> of all, was made the <hi>ſcorn</hi> of all, in <hi>Poverty, Labour, Faſtings;</hi> and <hi>Hunger</hi> he led all his <hi>life,</hi> and at laſt <hi>died</hi> the moſt <hi>opprobrious</hi> of all <hi>deaths. Jul.</hi> He may poſſibly find ſome to <hi>praiſe</hi> him, but none to <hi>imitate</hi> him at leaſt in theſe times. St. <hi>Pet.</hi> Yet that <hi>praiſing</hi> is ſome <hi>imitation,</hi> though <hi>Chriſt</hi> de<g ref="char:EOLhyphen"/>prives not his followers of good things; but for falſe <hi>good</hi> he <hi>repleniſhes</hi> them with true and <hi>Eternal</hi> good, but he repleniſhes them not till they have <hi>abdicated</hi> and <hi>renounced</hi> all worldly <hi>goods;</hi> as himſelf was all <hi>heavenly,</hi> ſo he would have his <hi>Body,</hi> that is the <hi>Church,</hi> to be moſt like him, to wit, <hi>purg'd</hi> from all <hi>contagion</hi> of the <hi>World:</hi> for elſe how can it be the <hi>ſame</hi> with him who fits in the <hi>Heavens,</hi> whilſt it is yet <hi>drench'd</hi> in <hi>Earthly</hi> dregs? But when it ſhall have <hi>ſhaken</hi> off all the <hi>delights</hi> of this <hi>World,</hi> and which is more the <hi>affections</hi> to them, then <hi>Chriſt</hi> opens his <hi>treaſure,</hi> and for <hi>forſaken</hi> pleaſures, which ſeem'd dipt in <hi>Honey,</hi> but are indeed ſeaſoned with <hi>Aloes,</hi> he gives them a <hi>taſte</hi> of heavenly <hi>joyes,</hi> and for their <hi>forſaken</hi> treaſures far more durable riches. <hi>Jul.</hi> What I pray? St. <hi>Pet.</hi> Leſt thou ſhouldſt think them <hi>vulgar</hi> riches, they are the <hi>Gift</hi> of <hi>Prophecy,</hi> the <hi>Gift</hi> of <hi>Knowledge,</hi> the
+<pb n="44" facs="tcp:205277:23"/>
+                  <hi>Gift</hi> of <hi>Miracles,</hi> unleſs you eſteem <hi>Chriſt</hi> as vile whom whoever <hi>poſſeſſes, poſſeſſes</hi> all things. Finally, leſt thou ſhould'ſt think we here lead a life of <hi>Poverty,</hi> know that the more any one is <hi>afflicted</hi> in this World, the more <hi>abundantly</hi> he is <hi>delighted</hi> in <hi>Chriſt;</hi> the <hi>poorer</hi> he is in this World, the <hi>richer</hi> he is in <hi>Chriſt,</hi> the <hi>lower</hi> he is in this World, the <hi>higher</hi> and more <hi>honoured,</hi> and the <hi>leſs</hi> he lives to this World, the <hi>more</hi> he lives in <hi>Chriſt;</hi> But <hi>Chriſt</hi> would have all his to be <hi>pure</hi> in their <hi>whole</hi> body, and principally his <hi>Mini<g ref="char:EOLhyphen"/>ſters,</hi> that is, <hi>free</hi> and <hi>uncontaminated</hi> by the <hi>enjoyments</hi> of the <hi>World.</hi> Now I behold the contrary; he who is next to <hi>Chriſt,</hi> or at leaſt would have him<g ref="char:EOLhyphen"/>ſelf ſo <hi>accounted,</hi> is almoſt <hi>drowned</hi> with ſordid things, <hi>Money, Dominion, Riches, Wars, Leagues,</hi> and I may well ſay <hi>Vices</hi> too; and yet whilſt thou art thus an <hi>alien</hi> to <hi>Chriſt,</hi> yet thou <hi>covereſt</hi> thy <hi>Pride</hi> with his <hi>Title,</hi> and under a pretence of his <hi>Name,</hi> who <hi>deſpiſed</hi> an Earthly Kingdom, doſt Lord it like a <hi>worldly</hi> Tyrant; thou <hi>bleſſeſt</hi> others, whilſt thou art thy ſelf <hi>accurſed;</hi> and do'ſt <hi>open</hi> the Gates of Heaven to others, while thou thy ſelf art quite <hi>ſhut out;</hi> Thou <hi>Conſecrateſt,</hi> and art <hi>Execrated; Excommunicateſt,</hi> and haſt nothing to do with <hi>Holy</hi> things: What difference is there between thee and the <hi>great Turk,</hi> unleſs thou <hi>pretendeſt</hi> to the Name of <hi>Chriſt?</hi> Certainly your <hi>minds</hi> are the <hi>ſame,</hi> the <hi>ſordidneſs</hi> of your life the <hi>ſame;</hi> but thou the greater <hi>plague to the World. Jul.</hi> But I deſired that the <hi>Church</hi> ſhould be <hi>adorned</hi> with all <hi>good</hi> things; and <hi>Ariſtotle,</hi> as they ſay, Conſtituted three Orders of <hi>Goods,</hi> of which ſome are of <hi>Fortune,</hi> ſome of the <hi>Body,</hi> and ſome of the <hi>Mind;</hi> therefore becauſe I would not invert the Order of theſe <hi>Goods;</hi> I began at thoſe of <hi>Fortune,</hi> and perhaps by degrees had reach'd to thoſe of the <hi>Mind,</hi> had I not been ſnatch'd away by an <hi>untimely</hi> death. St. <hi>Pet. <g ref="char:V">Ʋ</g>ntimely</hi> doſt thou call it at <hi>ſeventy</hi> years of Age. <hi>Jul.</hi> But if thoſe <hi>conveniencies</hi> are wanting, the Vulgar value us not a ſtraw, whom now they both <hi>hate</hi> and <hi>fear;</hi> And ſo the whole <hi>Chriſtian</hi> Republick would <hi>fall</hi> to nothing, not being able to <hi>defend</hi> it ſelf againſt the force of its <hi>Enemies.</hi> St. <hi>Pet.</hi> Rather if the <hi>Chriſtian</hi>-People beheld in thee the true <hi>Gifts</hi> of <hi>Chriſt,</hi> to wit, <hi>Sanctity</hi> of <hi>Life, Holineſs</hi> of <hi>Doctrine, inſtant Charity, Pro<g ref="char:EOLhyphen"/>phecy,</hi> and <hi>Virtue,</hi> this would raiſe thee <hi>higher</hi> with them, and the <hi>Chriſtian</hi> Commonweal would <hi>flouriſh</hi> indeed, when the <hi>Gentiles</hi> ſhould <hi>ſee</hi> and <hi>ad<g ref="char:EOLhyphen"/>mire</hi> their <hi>purity</hi> of <hi>life, contempt</hi> of <hi>riches, pleaſures, Empire</hi> and <hi>death;</hi> now it is not only <hi>contracted</hi> into a <hi>narrow</hi> compaſs, but, if diligent <hi>ſearch</hi> were made, moſt are in <hi>name only,</hi> Chriſtians. Let me beſeech you, did you never conſider with your ſelf, when you were <hi>chief Paſtor</hi> of the <hi>Church,</hi> how the <hi>Church</hi> had its firſt beginnings, how it <hi>increaſed,</hi> and how it was eſtabliſh<g ref="char:EOLhyphen"/>ed? Was it by <hi>Wars,</hi> or <hi>Riches,</hi> or <hi>Horſes;</hi> rather by <hi>Patience,</hi> by <hi>Martyrs<g ref="char:EOLhyphen"/>blood</hi> and <hi>Ours,</hi> by <hi>Priſons</hi> and by <hi>Stripes.</hi> Thou ſay'ſt the <hi>Church</hi> is <hi>in<g ref="char:EOLhyphen"/>creaſed</hi>
+                  <pb n="45" facs="tcp:205277:23"/>when its Miniſters are <hi>loaden</hi> with <hi>humane</hi> Power; Thou calleſt it <hi>adorned,</hi> when it is <hi>defiled</hi> with the <hi>delights</hi> and <hi>pleaſures</hi> of the World: Thou ſay'ſt it is <hi>defended,</hi> when for the <hi>avarice</hi> of Prieſts the World is <hi>tur<g ref="char:EOLhyphen"/>moyl'd</hi> with cruel Wars; Thou call'ſt it <hi>flouriſhing,</hi> when it is <hi>drunk</hi> with earthly <hi>pleaſures;</hi> and at <hi>quiet,</hi> when no body crying out againſt it; it enjoys its <hi>Riches</hi> and its <hi>Vices;</hi> And with theſe <hi>falſe</hi> and <hi>covered</hi> Titles thou im<g ref="char:EOLhyphen"/>poſeſt upon Princes, who taught by thee their <hi>Maſter,</hi> call their <hi>butcheries</hi> and <hi>furious</hi> conflicts, a <hi>defence of Chriſt. Jul.</hi> But I never heard theſe things before. St. <hi>Pet.</hi> What then did thy <hi>Preachers</hi> teach thee? <hi>Jul.</hi> From them I heard nothing but an <hi>exceſs</hi> of <hi>Applauſe,</hi> with <hi>imbelliſhed</hi> words they <hi>thundred</hi> out my <hi>praiſes,</hi> telling me I was a <hi>Jove,</hi> who with my Thunder <hi>ſhak'd</hi> all things, a certain <hi>true</hi> and <hi>viſible</hi> Divinity, and the pub<g ref="char:EOLhyphen"/>lick <hi>ſafety</hi> of the World, with many other things of that kind. St. <hi>Pet.</hi> 'Tis no wonder there was no one to gather thee up when thou wert a ſalt that had loſt its ſavour. For this is the true excellency of an Apoſtolical Man to teach Chriſt to others, and that purely. <hi>Jul.</hi> Then you wont open. St. <hi>Pet.</hi> To any one rather then to ſuch a Plague as thou; for with thee we are all Excommunicated: But ſhall I give you counſel is not ill? you have here a band of ſtrong men, you have a vaſt Treaſure, and are your ſelf a good Engineer; go and build your ſelf ſome new Paradiſe, but be ſure it be well fortified leſt the Devils ſhould ſtorm it. <hi>Jul.</hi> Yes Sir, I will do ſomething worthy of my ſelf, I will ſet to work for this ſix months, and having increaſed my fires come and drive you hence, unleſs you come to a ſubmiſſion; for I doubt not in a little time, out of the ſlaughter of War, to have at leaſt ſixty thouſand men come to me. There<g ref="char:EOLhyphen"/>fore now, <hi>Peter,</hi> if you be wiſe, open at this laſt Summons. St. <hi>Pet.</hi> In<g ref="char:EOLhyphen"/>deed We are much obliged to your Clemency (an Obligation the World ne're knew) that thus you will Lighten before you Thunder, and give warning before you ſtrike; but I would perſwade you, if you will hear me, that that Army you threaten us with, you would at what price ſoever prefer to <hi>Hildebrand</hi> to be Captain of, that famous Magician Predeceſſor of yours, for no force but Magick can open theſe doors to you. <hi>Patet atra Janua di<g ref="char:EOLhyphen"/>tis; Hell lies before you. Jul.</hi> That <hi>Hildebrand</hi> thou ſpeakſt of (what<g ref="char:EOLhyphen"/>ever in the reſt he were black or white; yet) I'me ſure was an Excellent Pope, and deſerved highly of the Church of <hi>Rome.</hi> St. <hi>Pet.</hi> Yet I ne<g ref="char:EOLhyphen"/>ver ſaw him in Heaven; Is he with thee at the Gate? <hi>Jul.</hi> I perceive there's no talking with thee, for either thou art not <hi>Peter,</hi> or knoweſt not that I am <hi>Julius</hi> the Second; I, whom thou thus treateſt like a thing of nothing, <hi>Farewel.</hi> But, in a ſhort time, expect my Return with all my Forces. St. <hi>Pet.</hi> Such our Saviour in the Goſpel foretold ſhould be
+<pb n="46" facs="tcp:205277:24"/>the farewel of the impure Spirit; But hold <hi>Julius</hi> the Second, before your tumbling headlong into the bottomleſs Pit whither you are going: An<g ref="char:EOLhyphen"/>ſwer me ſeriouſly ſome things (for hitherto you ſeem only a drolling Player) did you ever ſo much as in a dream hope to get into Heaven? <hi>Jul.</hi> I never had the leaſt manner of doubt of it, for why ſhould I think Heaven ſhould be ſhut againſt me who am thy Succeſſor that art the Hea<g ref="char:EOLhyphen"/>venly Porter? Is not the Pope of Rome heir apparent to <hi>Peter?</hi> St. <hi>Pet.</hi> Not at all: but thou ſucceedeſt not <hi>Peter;</hi> but <hi>Simon,</hi> not the Apoſtle; but the Sorcerer. What have I more to do with thee then with <hi>Julius Ceſar,</hi> who was likewiſe once chief Pontiffe? <hi>Jul.</hi> All acknowledge me thy Succeſſor, and in what can I ſucceed thee but thy ſeat? but what ſeat is there now left me to derive from thee if thou keepeſt ſhut that Gate, un<g ref="char:EOLhyphen"/>leſs thou wilt have Hell, which thou threatneſt me with, be the Apoſtolical Seat. St. <hi>Pet.</hi> 'Tis enough, 'tis not unworthy to be the <hi>Julian</hi> and Pſeudo-Apoſtolical: In the mean time thou ſeemeſt ſubtilly to Philoſo<g ref="char:EOLhyphen"/>phize with me as if not ignorant of Logick. <hi>Jul.</hi> Thou knowſt I am no ſuch Conjurer? St. <hi>Pet.</hi> Indeed of your Learning, We have already heard more then enough from your own mouth; yet you did not want Letters, when in a certain BULL for <hi>Fiat,</hi> you ſubſcribed <hi>Fiatur? Jul.</hi> As if a Pope of Rome were to reſpect Criticiſms of Gram<g ref="char:EOLhyphen"/>mar. However this was not ſubſcribed <hi>Ex Cathedra,</hi> which I am hearti<g ref="char:EOLhyphen"/>ly griev'd at, for then none of any <hi>Order, State,</hi> or <hi>Dignity</hi> whatſoever, though Kingly, durſt in any way correct or contradict it, without being conſcious to himſelf of incurring the indignation of Omnipotent God. St. <hi>Pet.</hi> You adviſedly omitted the indignation likewiſe of the Apoſtles St. <hi>Peter</hi> and St. <hi>Paul,</hi> which uſe to be brandiſhed in thoſe forms of wri<g ref="char:EOLhyphen"/>ting, for thoſe more then brutiſh Thunder-bolts, which for your Luſt and beaſtly impulſe of Spirit you uſed to caſt abroad, were never taught you by us. But pray (that we may return to the matter) what place didſt thou fancy Heaven to be? Or, how do'ſt imagine to paſs thy time there, if thou couldeſt, which is impoſſible, reach the Heavenly Quire? <hi>Jul.</hi> Do'ſt ask concerning the place? I thought Heaven (as every place above is) pervious to the Pope of Rome, and I would not have thee be ſollici<g ref="char:EOLhyphen"/>tous about my paſſing my time there; I never certainly loſt, more time then now talking with you: but pray what are the cauſe of your doubts? St. <hi>Pet.</hi> Very material ones, for here at leaſt thou wilt langniſh in ano<g ref="char:EOLhyphen"/>ther Element, not finding one of thoſe things to do in which thou wert converſant on Earth. <hi>Jul.</hi> How ſo I pray? St. <hi>Pet.</hi> Do'ſt thou yet ask? Here with the <hi>Spirtis of the Juſt made perfect</hi> (not Saints of thy Kalendar) a pure converſation is to be entred into, here a holy com<g ref="char:EOLhyphen"/>merce
+<pb n="47" facs="tcp:205277:24"/>is held with the bleſſed Angels, above all that ineffable Society with God and his Chriſt is to be ſought after; Here thoſe that are purged from all Earthly pleaſtures come to the enjoyment of true joyes: but thoſe joyes here prepared (and they are the moſt exquiſite imaginable) are fitted and accommodated to thoſe which are endued with true Sancti<g ref="char:EOLhyphen"/>ty, not at all for thoſe any way tainted with wickedneſs, though they may have born the empty Titles of Holineſs. Nay, ſhould they be gran<g ref="char:EOLhyphen"/>ted to others, that is, to wicked wretches like to thee, their Souls not be<g ref="char:EOLhyphen"/>ing capable of entertaining ſpiritual gladneſs, even thoſe Heavenly joyes would be turned into worſe then helliſh torments, when we perceive a ſi<g ref="char:EOLhyphen"/>militude of love and delight, and experience the very bottom of their contraries hate and anguiſh. In this place are no Common-wealths to be overthrown, no Kings and Princes to be trampled under feet, no Hoſts of Enemies to be deſtroyed, no ſplendid Triumphs to be deck'd with ſpoils, no faithful <hi>Confeſſors</hi> of Chriſt (the dear Children of God) under pre<g ref="char:EOLhyphen"/>tence of Hereſie to be perſecuted with ſtripes, torments, and death; no Throne is here erected for the Pope of <hi>Rome</hi> to ſit on; nor no Purple <hi>Car<g ref="char:EOLhyphen"/>dinals</hi> on all ſides to encompaſs him; no <hi>Canoniſts,</hi> who made and wor<g ref="char:EOLhyphen"/>ſhipped thee as their Lord God in Heaven, though thou wert a Devil in<g ref="char:EOLhyphen"/>carnate, and required others to give thee no leſs then Divine Worſhip; no Papal Exchequers, whither the ill-got Riches of the Church miſer<g ref="char:EOLhyphen"/>ably flow; no Stage-Playes, no Theaters, no Pompous Spectacles, no Gluttony, nor Drunkenneſs, no Harlotry, Sodomy, nor Rioting, no actor nor no procurer of Luſt; Finally, none of theſe obſcene pleaſures in which thou, like a Swine, which art nothing but mire &amp; dirt, didſt wallow, and in which thou knowſt moſt of thoſe who would call themſelves Bi<g ref="char:EOLhyphen"/>ſhops of the <hi>Catholick Church</hi> are beſmeared. <hi>Gen.</hi> If it be ſo, in my mind its beſt be gone quickly, for thou knowſt thou do'ſt not delight in thoſe other things which thou haſt not been accuſtomed to. St. <hi>Pet.</hi> Peace <hi>Genius,</hi> 'tis not yet your turn to ſpeak. (<hi>Gen.</hi> by and by it will) St. <hi>Pet.</hi> But did not the Holy Scriptures foretel thee all this? <hi>Jul.</hi> What Holy Scriptures do you talk of? St. <hi>Pet.</hi> The Canonical. <hi>Jul.</hi> I ſup<g ref="char:EOLhyphen"/>poſe you mean the Decrees and Decretals. St. <hi>Pet.:</hi> Away Trifler, that written one dictated by the Holy Spirit. <hi>Jul.</hi> O! that they call the <hi>Bible,</hi> (for I never knew the face of it) certainly out of hate to me you will by and by turn Heretick, for ſo the <hi>leoniſts</hi> love to talk, and ſo now a<g ref="char:EOLhyphen"/>days do all who are no good Catholicks; I could never endure thoſe <hi>Bible<g ref="char:EOLhyphen"/>readers,</hi> as prejudicial both to the advantage (which I wonder <hi>Peter</hi> ſhould be ignorant of) and Dignity of the Epiſcopal See; but how long will you ſuffer me here to catch cold in my toes, which even Kings have kiſſed.
+<pb n="48" facs="tcp:205277:25"/>
+                  <hi>St. Pet.</hi> Do you grow cold? be gone then, not to your Fictitious King<g ref="char:EOLhyphen"/>doms and painted Fires of Purgatory, whence by I kno<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not what fulneſs of feigned Power thou cheatedſt other into a belief of fre<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing them, and art now thy ſelf deceived with vain hopes; but to the true and Eternal Fire prepared for thee by the Devil and his Angels, <hi>there thou wilt be warm enough. Gen.</hi> 'Tis decreed thou ſeeſt, why do we loſe any more time, for my great Emperour the Prince of Darkneſs beckens me with his ſtaff. Now 'tis my turn both to ſpeak and do. <hi>Jul.</hi> Wicked, Treacherous <hi>Genins</hi> whither do you betray <hi>Julius?</hi> Might I but return to <hi>Rome,</hi> (nay, only to the <hi>Porphyr Seat</hi>) how would I <hi>damn</hi> thee with Curſes (in deſpight of <hi>Peter</hi>) under the Fiſherman's Ring; I would <hi>(dictum factum)</hi> ſtir up all <hi>Catholick Princes</hi> againſt thee. <hi>Gen.</hi> 'Tis well in this mad-humour you han't your Sword; this is the firſt time 'twas ever wanting. <hi>Jul. Julius</hi> is aſſaulted, Pope <hi>Julius</hi> the Second, a hundred thouſand years of Plenary Apoſtolick Indulgence to all and ſingular that — <hi>Gen.</hi> Go wretch, now you rave, promiſing to deliver others from the feigned tor<g ref="char:EOLhyphen"/>tures of Purgatory, for your own Redemption; but d'ee ſee that black Crew coming hither? <hi>Jul.</hi> Devils without doubt, Help, help, Oh help. <hi>Gen.</hi> Here Devils, here take your own, Pope <hi>Julius</hi> the Second.</p>
+            </sp>
+            <lg>
+               <head>To <hi>Julius.</hi>
+               </head>
+               <l>
+                  <hi>Do'ſt ſee, Great</hi> Julius, <hi>Heav'n to thee deny'd?</hi>
+               </l>
+               <l>
+                  <hi>Whilſt</hi> Tiburs <hi>waves thy ſlighted Keys do's bide.</hi>
+               </l>
+               <l>
+                  <hi>How would thoſe Keys now more then Swords avail;</hi>
+               </l>
+               <l>
+                  <hi>And a poor Fiſher's Cloak, then Coats of Maile?</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:205277:25"/>
+         </div>
+      </body>
+   </text>
+</TEI>
